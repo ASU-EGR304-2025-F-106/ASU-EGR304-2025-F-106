@@ -61,10 +61,10 @@ _**Appendix Table 2**: Weekly Schedule_
 | 3:00 PM | - | - | - | - | - | - | - |
 | 4:00 PM | - | - | - | - | - | - | - |
 | 5:00 PM | - | -  | - | - | - | - | - |
-| 6:00 PM | - | JT JV C | JT JV C | JT JV C | JT JV C | JT JV C | JT JV C |
-| 7:00 PM | - | JT JV C | JT JV C | JT JV C | JT JV C | JT JV C | JT JV C |
-| 8:00 PM | - | JT JV C | JT JV C | JT JV C | JT JV C | JT JV C | JT JV C |
-| 9:00 PM | - | JT JV C | JT JV C | JT JV C | JT JV C | JT JV C | JT JV C |
+| 6:00 PM | JT | JV C | JT JV C | JT JV C | JT JV C | JT JV C | JT JV C |
+| 7:00 PM | JT | JV C | JT JV C | JT JV C | JT JV C | JT JV C | JT JV C |
+| 8:00 PM | JT | JV C | JT JV C | JT JV C | JT JV C | JT JV C | JT JV C |
+| 9:00 PM | JT | JV C | JT JV C | JT JV C | JT JV C | JT JV C | JT JV C |
 
 _**Table Legend for Appendix Table 2**_
 
