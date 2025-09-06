@@ -7,7 +7,12 @@ tags:
 
 ## Team Goals
 
-List at least five shared goals that reflect a successful product with regard to EGR3X4. Focus on team / product goals that are deeper than "getting an A".
+Practice effective Communication - making sure we are all on the same page and aware of any issues or if we need help.
+
+Equal Tasks - Making sure that each team member knows their roles and contribute, as well as jumping in if task become overwhelming for another team member.
+
+Practical Designs - Making sure that our systems work effieciently and effectively
+
 
 ## Communication Channels
 
@@ -16,9 +21,9 @@ _**Appendix Table 1**: Team Member Communication Modes_
 |Name                 | First Choice Communication | Second Choice Communication | Third Choice Communication |
 |---------------------|----------------------------|-----------------------------|----------------------------|
 |JT Harrison |  Text | Email | Canvas |
-|Member 2 |  ? | ? | ? |
-|Member 3 |  ? | ? | ? |
-|Member 4 |  ? | ? | ? |
+|Garrett Wiebke |  ? | ? | ? |
+|Charlie Klotz |  ? | ? | ? |
+|Jon San Vicente |  ? | ? | ? |
 
 ### Main Method for Group Communication
 
@@ -31,6 +36,8 @@ Based on the information provided on in the "Team Member Communication Modes," t
     The team will communicate mostly through our group chat if any issues should occur as well as during our weekly meetings. Email will also be another source of communication.
 
 2. How will you handle instructor correspondence? Who is responsible? How will that be communicated with/back to the group?
+
+    During class we will get together as a group to our instructor, however if out of class the acting team leader will be the main point of contact to the instructor to avoid any confusion. The acting team lead will send and recieve any information provided by the instructor. This will be communicated with the group either in or a combination of group text chat, email and scheduled weekly meetings.
 
 ## Meeting Schedule
 
@@ -79,6 +86,8 @@ _**Table Legend for Appendix Table 2**_
     
 1. Are there any other procedures that your team feels are necessary?
 
+    Making sure that during our weekly meetings we keep an agenda so we know where our project stands and what each team member is working on.
+
 ## Roles & Responsibilities
 
 _**Appendix Table 2**: Project Roles and Duties_
@@ -97,5 +106,9 @@ Need to add content!!
 
 ## Signatures
 
-Need to add content!!
-
+|Name                 | Type Signatures |
+|---------------------|----------------------------|-----------------------------|----------------------------|
+|JT Harrison |  JT Harrison, 106 | 
+|Garrett Wiebke |  ? | 
+|Charlie Klotz |  ? |
+|Jon San Vicente |  ? |
