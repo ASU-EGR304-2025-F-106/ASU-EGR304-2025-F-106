@@ -27,7 +27,7 @@ _**Appendix Table 1**: Team Member Communication Modes_
 |Name                 | First Choice Communication | Second Choice Communication | Third Choice Communication |
 |---------------------|----------------------------|-----------------------------|----------------------------|
 |JT Harrison |  Text | Email | Canvas |
-|Garrett Wiebke |  ? | ? | ? |
+|Garrett Wiebke |  Text | Email | Canvas |
 |Charlie Klotz |  Text | Email | Canvas |
 |Jon San Vicente |  Text | Email | Canvas |
 
@@ -61,17 +61,17 @@ _**Appendix Table 2**: Weekly Schedule_
 | 3:00 PM | - | - | - | - | - | - | - |
 | 4:00 PM | - | - | - | - | - | - | - |
 | 5:00 PM | - | -  | - | - | - | - | - |
-| 6:00 PM | JT | JV C | JT JV C | JT JV C | JT JV C | JT JV C | JT JV C |
-| 7:00 PM | JT | JV C | JT JV C | JT JV C | JT JV C | JT JV C | JT JV C |
-| 8:00 PM | JT | JV C | JT JV C | JT JV C | JT JV C | JT JV C | JT JV C |
-| 9:00 PM | JT | JV C | JT JV C | JT JV C | JT JV C | JT JV C | JT JV C |
+| 6:00 PM | JT GW| JV C GW | JT JV C GW | JT JV C GW | JT JV C GW | JT JV C GW | JT JV C |
+| 7:00 PM | JT GW | JV C GW | JT JV C GW | JT JV C GW | JT JV C GW | JT JV C GW | JT JV C |
+| 8:00 PM | JT GW | JV C GW | JT JV C GW | JT JV C GW | JT JV C GW | JT JV C GW | JT JV C |
+| 9:00 PM | JT GW| JV C GW | JT JV C GW | JT JV C GW | JT JV C GW | JT JV C GW | JT JV C |
 
 _**Table Legend for Appendix Table 2**_
 
 | Name | Abbreviation |
 | ----- | :------: |
 | JT | JT |
-| Garrett | G |
+| Garrett | GW |
 | Charlie | C |
 | Jon | JV |
 
@@ -117,7 +117,7 @@ _**Appendix Table 3**: Team Member Digital Signatures_
 |Name                 | Signatures |
 |---------------------|----------------------------|
 |JT Harrison | JT Harrison, 106  |
-|Garrett Wiebke |  ? |
+|Garrett Wiebke |  Garrett Wiebke, 106 |
 |Charlie Klotz |  Charlie Klotz, 106 |
 |Jon San Vicente |  Jon San Vicente, 106 |
 
