@@ -28,5 +28,5 @@ Dr. Daniel Aukes<br>
 | ---------------------- | -----------------------|
 | JT Harrison                | [JTHarrison.GitHub](https://jtharri6.github.io/) |
 | Garrett Wiebke                | link |
-| Charlie Klotz                | link |
+| Charlie Klotz                | [CharKlotz.GitHub](https://charklotz.github.io/) |
 | Jon San Vicente               | link |
