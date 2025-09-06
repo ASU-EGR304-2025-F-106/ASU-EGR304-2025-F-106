@@ -5,9 +5,9 @@ tags:
 - tag2
 ---
 <center>
-<font size="8">Project Name<br>
+<font size="8">Embedded Systems Design Project<br>
 <font size="5">Team 106<br>
-**Submission: month, DD, YYYY**<br>
+**Submission: Sep 05, 2025**<br>
 Fall 2025<br>
 <font size="4">Arizona State University<br>
 **EGR 304**<br>
