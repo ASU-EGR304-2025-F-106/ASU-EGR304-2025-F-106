@@ -11,7 +11,13 @@ Practice effective Communication - making sure we are all on the same page and a
 
 Equal Tasks - Making sure that each team member knows their roles and contribute, as well as jumping in if task become overwhelming for another team member.
 
-Practical Designs - Making sure that our systems work effieciently and effectively
+Practical Designs - Making sure that our systems work effieciently and effectively.
+
+Efficient Deadline Management - Making sure that each team member knows of upcoming deadlines and off hands work if needed. Set reminders.
+
+Team Skill - Each team member will have a hand in important roles and take turns on tasks. This ensures each member gains the skillset needed for real world application.
+
+
 
 
 ## Communication Channels
