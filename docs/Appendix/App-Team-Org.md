@@ -106,9 +106,12 @@ Need to add content!!
 
 ## Signatures
 
-|Name                 | Type Signatures |
-|---------------------|----------------------------|-----------------------------|----------------------------|
-|JT Harrison |  JT Harrison, 106 | 
-|Garrett Wiebke |  ? | 
+_**Appendix Table 3**: Team Member Digital Signatures_
+
+|Name                 | First Choice Communication |
+|---------------------|----------------------------|
+|JT Harrison |   | JTHarrison, 106 |
+|Garrett Wiebke |  ? |
 |Charlie Klotz |  ? |
 |Jon San Vicente |  ? |
+
