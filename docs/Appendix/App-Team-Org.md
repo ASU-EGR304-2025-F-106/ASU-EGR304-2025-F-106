@@ -28,7 +28,7 @@ _**Appendix Table 1**: Team Member Communication Modes_
 |---------------------|----------------------------|-----------------------------|----------------------------|
 |JT Harrison |  Text | Email | Canvas |
 |Garrett Wiebke |  ? | ? | ? |
-|Charlie Klotz |  ? | ? | ? |
+|Charlie Klotz |  Text | Email | Canvas |
 |Jon San Vicente |  Text | Email | Canvas |
 
 ### Main Method for Group Communication
@@ -57,14 +57,14 @@ _**Appendix Table 2**: Weekly Schedule_
 | 11:00 AM | - | - | - | - | - | - | - |
 | 12:00 PM | - | - | - | - | - | - | - |
 | 1:00 PM | - |  | - | - | - | - | - |
-| 2:00 PM | -, - | - | - | - | - | - | - |
+| 2:00 PM | - | - | - | - | - | - | - | - |
 | 3:00 PM | - | - | - | - | - | - | - |
 | 4:00 PM | - | - | - | - | - | - | - |
-| 5:00 PM | - | - | - | - | - | - | - |
-| 6:00 PM | - | JT JV | JT JV | JT JV | JT JV | JT JV | JT JV |
-| 7:00 PM | - | JT JV | JT JV | JT JV | JT JV | JT JV | JT JV |
-| 8:00 PM | - | JT JV | JT JV | JT JV | JT JV | JT JV | JT JV |
-| 9:00 PM | - | JT JV | JT JV | JT JV | JT JV | JT JV | JT JV |
+| 5:00 PM | - | -  | - | - | - | - | - |
+| 6:00 PM | - | JT JV C | JT JV C | JT JV C | JT JV C | JT JV C | JT JV C |
+| 7:00 PM | - | JT JV C | JT JV C | JT JV C | JT JV C | JT JV C | JT JV C |
+| 8:00 PM | - | JT JV C | JT JV C | JT JV C | JT JV C | JT JV C | JT JV C |
+| 9:00 PM | - | JT JV C | JT JV C | JT JV C | JT JV C | JT JV C | JT JV C |
 
 _**Table Legend for Appendix Table 2**_
 
