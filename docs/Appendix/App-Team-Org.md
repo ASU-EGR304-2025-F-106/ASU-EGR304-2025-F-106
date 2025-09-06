@@ -23,7 +23,7 @@ _**Appendix Table 1**: Team Member Communication Modes_
 |JT Harrison |  Text | Email | Canvas |
 |Garrett Wiebke |  ? | ? | ? |
 |Charlie Klotz |  ? | ? | ? |
-|Jon San Vicente |  ? | ? | ? |
+|Jon San Vicente |  Text | Email | Canvas |
 
 ### Main Method for Group Communication
 
@@ -55,10 +55,10 @@ _**Appendix Table 2**: Weekly Schedule_
 | 3:00 PM | - | - | - | - | - | - | - |
 | 4:00 PM | - | - | - | - | - | - | - |
 | 5:00 PM | - | - | - | - | - | - | - |
-| 6:00 PM | - | JT | JT | JT | JT | JT | JT |
-| 7:00 PM | - | JT | JT | JT | JT | JT | JT |
-| 8:00 PM | - | JT | JT | JT | JT| JT | JT |
-| 9:00 PM | - | JT | JT | JT | JT | JT | JT |
+| 6:00 PM | - | JT JV | JT JV | JT JV | JT JV | JT JV | JT JV |
+| 7:00 PM | - | JT JV | JT JV | JT JV | JT JV | JT JV | JT JV |
+| 8:00 PM | - | JT JV | JT JV | JT JV | JT JV | JT JV | JT JV |
+| 9:00 PM | - | JT JV | JT JV | JT JV | JT JV | JT JV | JT JV |
 
 _**Table Legend for Appendix Table 2**_
 
@@ -113,5 +113,5 @@ _**Appendix Table 3**: Team Member Digital Signatures_
 |JT Harrison | JT Harrison, 106  |
 |Garrett Wiebke |  ? |
 |Charlie Klotz |  ? |
-|Jon San Vicente |  ? |
+|Jon San Vicente |  Jon San Vicente, 106 |
 
