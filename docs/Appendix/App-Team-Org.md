@@ -107,7 +107,7 @@ _**Appendix Table 2**: Project Roles and Duties_
 
 ## Conflict Recognition & Resolution
 
-Need to add content!!
+Our team understands that some form of disagreement is likely at some point. Knowing that, we will try to view it as a normal part of the collaboration, and address any concerns openly as a team. If a disagreement cannot be resolved, or prevents us from making progress, we will then consider bringing it to the instructor for further guidance.
 
 
 ## Signatures
