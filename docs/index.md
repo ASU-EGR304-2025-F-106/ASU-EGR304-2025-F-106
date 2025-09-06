@@ -27,6 +27,6 @@ Dr. Daniel Aukes<br>
 | **Team Member**        |**Ind Datasheet Links** |
 | ---------------------- | -----------------------|
 | JT Harrison                | [JTHarrison.GitHub](https://jtharri6.github.io/) |
-| Garrett Wiebke                | link |
+| Garrett Wiebke              | [GarrrettWiebke.GitHub](https://garrettwiebke.github.io/) |
 | Charlie Klotz                | [CharKlotz.GitHub](https://charklotz.github.io/) |
 | Jon San Vicente               | [Jsanvice.Github](https://jsanvice.github.io/) |
