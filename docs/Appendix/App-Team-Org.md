@@ -38,16 +38,16 @@ _**Appendix Table 2**: Weekly Schedule_
 
 | Time | Sunday | Monday | Tuesday | Wednesday | Thursday | Friday | Saturday |
 | :------: | :----: | :----: | :----: | :----: | :----: | :----: | :-----: |
-| 8:00 AM | - | - | M | - | M | - | - |
-| 9:00 AM | - | F | M | - | M | - | - |
-| 10:00 AM | - | B | M | - | M | - | - |
-| 11:00 AM | - | B | M | - | M | - | - |
-| 12:00 PM | Z | B, Z | M | - | M | - | - |
-| 1:00 PM | Z, F |  | M | - | M | - | - |
-| 2:00 PM | -, - | - | M | - | M | - | - |
-| 3:00 PM | - | - | M | - | M | - | - |
-| 4:00 PM | - | - | M | - | M | - | - |
-| 5:00 PM | - | - | M | - | M | - | - |
+| 8:00 AM | - | - | - | - | - | - | - |
+| 9:00 AM | - | - | - | - | - | - | - |
+| 10:00 AM | - | - | - | - | - | - | - |
+| 11:00 AM | - | - | - | - | - | - | - |
+| 12:00 PM | - | - | - | - | - | - | - |
+| 1:00 PM | - |  | - | - | - | - | - |
+| 2:00 PM | -, - | - | - | - | - | - | - |
+| 3:00 PM | - | - | - | - | - | - | - |
+| 4:00 PM | - | - | - | - | - | - | - |
+| 5:00 PM | - | - | - | - | - | - | - |
 | 6:00 PM | - | JT | JT | JT | JT | JT | JT |
 | 7:00 PM | - | JT | JT | JT | JT | JT | JT |
 | 8:00 PM | - | JT | JT | JT | JT| JT | JT |
@@ -58,9 +58,9 @@ _**Table Legend for Appendix Table 2**_
 | Name | Abbreviation |
 | ----- | :------: |
 | JT | JT |
-| Mary | M |
-| Zane | Z |
-| Felicity | F |
+| Garrett | G |
+| Charlie | C |
+| Jon | JV |
 
 
 ## Meeting Coordination
