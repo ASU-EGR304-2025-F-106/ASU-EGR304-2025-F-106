@@ -118,6 +118,6 @@ _**Appendix Table 3**: Team Member Digital Signatures_
 |---------------------|----------------------------|
 |JT Harrison | JT Harrison, 106  |
 |Garrett Wiebke |  ? |
-|Charlie Klotz |  ? |
+|Charlie Klotz |  Charlie Klotz, 106 |
 |Jon San Vicente |  Jon San Vicente, 106 |
 
