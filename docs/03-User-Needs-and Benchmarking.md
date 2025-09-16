@@ -41,6 +41,143 @@ Picture here
 | | 2. Two need (explicit/latent) | 
 | | 3. Three need (explicit/latent) |
 
+### Search #2
+
+**Keywords:** "goes here"
+
+**Search Results Link:** [example.com](https://example.com)
+
+
+### Selected Products
+
+1. [Name of product](https://example.com)
+
+Picture here
+
+- Price: $
+- Vendor: 
+- Description: 
+
+<small><b>POSITIVE COMMENTS</b></small>
+
+| Voice of the customer                                       | Restated Customer Need                           |
+|-------------------------------------------------------------|--------------------------------------------------|
+| "What the customer says" | 1. One need (explicit/latent) |
+| | 2. Two need (explicit/latent) | 
+| | 3. Three need (explicit/latent) |
+
+
+<small><b>NEGATIVE COMMENTS</b></small>
+
+| Voice of the customer                                       | Restated Customer Need                           |
+|-------------------------------------------------------------|--------------------------------------------------|
+| "What the customer says" | 1. One need (explicit/latent) |
+| | 2. Two need (explicit/latent) | 
+| | 3. Three need (explicit/latent) |
+
+### Search #3
+
+**Keywords:** "goes here"
+
+**Search Results Link:** [example.com](https://example.com)
+
+
+### Selected Products
+
+1. [Name of product](https://example.com)
+
+Picture here
+
+- Price: $
+- Vendor: 
+- Description: 
+
+<small><b>POSITIVE COMMENTS</b></small>
+
+| Voice of the customer                                       | Restated Customer Need                           |
+|-------------------------------------------------------------|--------------------------------------------------|
+| "What the customer says" | 1. One need (explicit/latent) |
+| | 2. Two need (explicit/latent) | 
+| | 3. Three need (explicit/latent) |
+
+
+<small><b>NEGATIVE COMMENTS</b></small>
+
+| Voice of the customer                                       | Restated Customer Need                           |
+|-------------------------------------------------------------|--------------------------------------------------|
+| "What the customer says" | 1. One need (explicit/latent) |
+| | 2. Two need (explicit/latent) | 
+| | 3. Three need (explicit/latent) |
+
+### Search #4
+
+**Keywords:** "goes here"
+
+**Search Results Link:** [example.com](https://example.com)
+
+
+### Selected Products
+
+1. [Name of product](https://example.com)
+
+Picture here
+
+- Price: $
+- Vendor: 
+- Description: 
+
+<small><b>POSITIVE COMMENTS</b></small>
+
+| Voice of the customer                                       | Restated Customer Need                           |
+|-------------------------------------------------------------|--------------------------------------------------|
+| "What the customer says" | 1. One need (explicit/latent) |
+| | 2. Two need (explicit/latent) | 
+| | 3. Three need (explicit/latent) |
+
+
+<small><b>NEGATIVE COMMENTS</b></small>
+
+| Voice of the customer                                       | Restated Customer Need                           |
+|-------------------------------------------------------------|--------------------------------------------------|
+| "What the customer says" | 1. One need (explicit/latent) |
+| | 2. Two need (explicit/latent) | 
+| | 3. Three need (explicit/latent) |
+
+### Search #5
+
+**Keywords:** "goes here"
+
+**Search Results Link:** [example.com](https://example.com)
+
+
+### Selected Products
+
+1. [Name of product](https://example.com)
+
+Picture here
+
+- Price: $
+- Vendor: 
+- Description: 
+
+<small><b>POSITIVE COMMENTS</b></small>
+
+| Voice of the customer                                       | Restated Customer Need                           |
+|-------------------------------------------------------------|--------------------------------------------------|
+| "What the customer says" | 1. One need (explicit/latent) |
+| | 2. Two need (explicit/latent) | 
+| | 3. Three need (explicit/latent) |
+
+
+<small><b>NEGATIVE COMMENTS</b></small>
+
+| Voice of the customer                                       | Restated Customer Need                           |
+|-------------------------------------------------------------|--------------------------------------------------|
+| "What the customer says" | 1. One need (explicit/latent) |
+| | 2. Two need (explicit/latent) | 
+| | 3. Three need (explicit/latent) |
+
+
 ## Esse quoque sedem plena nunc iecur
 
 Possemque suos dumque. Deum recta rogantem, inquinat facta gigantas; ego nisi
