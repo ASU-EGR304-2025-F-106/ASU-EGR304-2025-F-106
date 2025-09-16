@@ -25,6 +25,7 @@ Picture here
 - Description: 
 
 <small><b>POSITIVE COMMENTS</b></small>
+
 | Voice of the customer                                       | Restated Customer Need                           |
 |-------------------------------------------------------------|--------------------------------------------------|
 | "What the customer says" | 1. One need (explicit/latent) |
@@ -33,6 +34,7 @@ Picture here
 
 
 <small><b>NEGATIVE COMMENTS</b></small>
+
 | Voice of the customer                                       | Restated Customer Need                           |
 |-------------------------------------------------------------|--------------------------------------------------|
 | "What the customer says" | 1. One need (explicit/latent) |
