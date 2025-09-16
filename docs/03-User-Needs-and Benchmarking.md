@@ -181,9 +181,6 @@ even when you are away from home
 |-------------------------------------------------------------|--------------------------------------------------|
 |“Easy to setup, does as it advertised. Save me time.”|Designed for ease of use by the end-user (explicit)| 
 | |Fulfills roles advertised to the end-user (explicit)|
-
-| Voice of the customer                                       | Restated Customer Need                           |
-|-------------------------------------------------------------|--------------------------------------------------|
 |“Easy to setup. Easy to program. Fully installed, programmed and tested for 3 large plants in about 15 minutes. Make sure to make straight 90 degree cuts on tubing and push tubing all the way down on the connecting tees to avoid leaks.”|Designed for ease of use by the end-user (explicit)| 
 | |More thorough user instructions to avoid problems (latent)|
 
