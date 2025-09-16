@@ -160,39 +160,130 @@ Picture here
 | | 2. Two need (explicit/latent) | 
 | | 3. Three need (explicit/latent) |
 
-### Search #5
+## Search #4
 
-**Keywords:** "goes here"
+Keywords: “plant monitor system”
 
-**Search Results Link:** [example.com](https://example.com)
+Search Results Link: [https://www.amazon.com/s?k=plant+monitor+system](https://www.amazon.com/s?k=plant+monitor+system)
 
+Product 1:  [DIAFIELD Indoor Automatic Plant Waterer](https://www.amazon.com/DIAFIELD-Automatic-Watering-Irrigation-Programmable/dp/B0F21NQCY1?dib=eyJ2IjoiMSJ9.97-1v2-xyuaXvaxLaPI4NJqAWLMzomj9gFTVLg721_FIHGKEGG8B8YoKGtDWLvlKMplazlsQCDq_9Gy9az0KRV_P4Vsw4m47rjKJ7mQwHpfB7uYp0L8njtAJBcpjf25orbWpg2SrQGUYZUOP-Zcxh67QOTWq2dK3iG9HiHYK1VJzxyFJCiU6PKmhmc4WDe4m1GvfLvAT4Ys_ldX3rwEk15GyH6tWlCx0yPgOp8_G1pDgsjAUTGsDr6Nft3VIA6_rxNngY6ZmlQdpRO_p5mEloGhMA1qq9_2OFJCGzjVADUo.ePz_lok5aZ4bV9i_CBR_7j3QTmAy0NNL5m7RNU6K6UA&dib_tag=se&keywords=plant%2Bmonitor%2Bsystem&qid=1757990103&sr=8-8&th=1)
 
-### Selected Products
+![Image of DIAFIELD Indoor Automatic Plant Waterer](docs/image/DIAFIELD.png)
 
-1. [Name of product](https://example.com)
+Price: $21.79
 
-Picture here
+Vendor: Amazon
 
-- Price: $
-- Vendor: 
-- Description: 
+Description: 
+
+- Automatic Drip Irrigation Kit: Upgrade your watering routine with our automatic 
+watering system, eliminating the need for daily watering hassles and allowing you 
+to effortlessly care for your 15 potted plants
+- Simple to Assemble: This system comes with a complete set of components for easy 
+installation. Cut and customize the water pipes to design an exclusive irrigation 
+system tailored to your own preferences
+- Easy to Use: Featuring a generous LCD screen, providing you with a quick and 
+effortless way to monitor the system's status. With a 30-day programmable timer, 
+you can easily control when and how much water your plants receive
+- Water-Saving Design: Using watering stakes can save at least 70% water. The 
+system waters plants based on preset schedules and water quantities, reducing water 
+waste and promoting environmentally-friendly gardening practices
+- Ideal for Vacations and Busy Days: Good for vacations and busy workdays, our 
+system ensures your plants receive consistent water supply, promoting healthy growth 
+even when you are away from home
 
 <small><b>POSITIVE COMMENTS</b></small>
 
-| Voice of the customer                                       | Restated Customer Need                           |
-|-------------------------------------------------------------|--------------------------------------------------|
-| "What the customer says" | 1. One need (explicit/latent) |
-| | 2. Two need (explicit/latent) | 
-| | 3. Three need (explicit/latent) |
+|           Voice of the Constomer              |                  User Needs                   |
+|-----------------------------------------------|-----------------------------------------------|
+|“Easy to setup, does as it advertised. Save me time.”|Designed for ease of use by the end-user (explicit)| 
+| |Fulfills roles advertised to the end-user (explicit)|
+
+|           Voice of the Constomer              |                  User Needs                   |
+|-----------------------------------------------|-----------------------------------------------|
+|“Easy to setup. Easy to program. Fully installed, programmed and tested for 3 large plants in about 15 minutes. Make sure to make straight 90 degree cuts on tubing and push tubing all the way down on the connecting tees to avoid leaks.”|Designed for ease of use by the end-user (explicit)| 
+| |More thorough user instructions to avoid problems (latent)|
+
+|           Voice of the Constomer              |                  User Needs                   |
+|-----------------------------------------------|-----------------------------------------------|
+|“This worked well, and was fairly easy to set up. It kept my bonsai alive while I was out of town for a week, at least.”|Designed for ease of use by the end-user (explicit)| 
+| |Reliable for extended periods of time (latent)|
 
 
 <small><b>NEGATIVE COMMENTS</b></small>
 
-| Voice of the customer                                       | Restated Customer Need                           |
-|-------------------------------------------------------------|--------------------------------------------------|
-| "What the customer says" | 1. One need (explicit/latent) |
-| | 2. Two need (explicit/latent) | 
-| | 3. Three need (explicit/latent) |
+|           Voice of the Constomer              |                  User Needs                   |
+|-----------------------------------------------|-----------------------------------------------|
+|“I am so disappointed that this product did not work for me. All the reviews that I had read prior to the purchase had been very good. One day after I had installed the system, I removed the stakes from my plants to test it and to attempt to determine how much water was being distributed to each plant. However, after removing the stakes, 4 of the 7 stakes I used continued to drip although the system had been turned off. I put the 4 dripping stakes in a large pot to allow any potential residual water in the tubing time to empty. 4 hours later, the pot was 2/3 full and each stake continued to drip at a rate of about two drops per second. The only way I could stop the dripping was to disconnect the power and remove the filter from the water source. I contacted the product customer service. Although she was very nice and did confirm that there was residual water in the tubing, she could offer no additional suggestions. I am returning the system.”|Reliable for extended periods of time (latent)|
+| |Fulfills roles advertised to the end-user (explicit)|
+
+|           Voice of the Constomer              |                  User Needs                   |
+|-----------------------------------------------|-----------------------------------------------|
+|“Great idea, returned after reading the directions. Never opened any of the other parts. Not for an 81 year old to setup!”|Designed for ease of use by the end-user (explicit)|
+
+|           Voice of the Constomer              |                  User Needs                   |
+|-----------------------------------------------|-----------------------------------------------|
+|“It's very hard to get to operate”|Designed for ease of use by the end-user (explicit)|
+
+Product #2: [XLUX Soil Moisture Meter](https://www.amazon.com/XLUX-Soil-Moisture-Sensor-Meter/dp/B014MJ8J2U?dib=eyJ2IjoiMSJ9.97-1v2-xyuaXvaxLaPI4NJqAWLMzomj9gFTVLg721_FIHGKEGG8B8YoKGtDWLvlKMplazlsQCDq_9Gy9az0KRV_P4Vsw4m47rjKJ7mQwHpfB7uYp0L8njtAJBcpjf25orbWpg2SrQGUYZUOP-Zcxh67QOTWq2dK3iG9HiHYK1VJzxyFJCiU6PKmhmc4WDe4m1GvfLvAT4Ys_ldX3rwEk15GyH6tWlCx0yPgOp8_G1pDgsjAUTGsDr6Nft3VIA6_rxNngY6ZmlQdpRO_p5mEloGhMA1qq9_2OFJCGzjVADUo.ePz_lok5aZ4bV9i_CBR_7j3QTmAy0NNL5m7RNU6K6UA&dib_tag=se&keywords=plant%2Bmonitor%2Bsystem&qid=1757990103&sr=8-7&th=1)
+
+![Image of XLUX Soil Moisture Meter](docs/image/XLUX.png)
+
+Price: $12.99
+
+Vendor: Amazon
+
+Description:
+
+- Accurate Soil Moisture Detection：The XLUX Soil Moisture Meter can tell you if the 
+soil deep inside your pot or garden is dry, moist or wet; whereas your eyes and fingers 
+can only determine the moisture level of the soil surface.
+-Easy-to-Read Large Dial: The large dial is easy to read and includes three zones with 
+ten scales, making it very straightforward to understand.
+-Immediate Moisture Reading: Insert the probe into the soil, and without waiting, the 
+dial will immediately display the moisture level. You can then decide whether your plant 
+needs watering based on the measurement. Do not leave this moisture meter in the soil for
+ more than 5 minutes, as the metal tip will gradually corrode.
+-Less Damage: A single probe causes less damage to plant roots compared to double or 
+multiple probes, and when you remove the probe after testing, it won't bring out much soil.
+-Usage Precautions: Do not use it to test very hard soil. Do not test water or other liquids. 
+After testing, please wipe the probe clean.
+
+
+<small><b>POSITIVE COMMENTS</b></small>
+
+|           Voice of the Constomer              |                  User Needs                   |
+|-----------------------------------------------|-----------------------------------------------|
+|"Very useful, works great and I love the long length!! I have another shorter one, but this one is better because of the length. Good value. I dug down with my finger on dry and wet soils and it is accurate.”|Good cost to performance ratio (explicit)|
+| |Long length probe for better utility (latent)|
+
+|           Voice of the Constomer              |                  User Needs                   |
+|-----------------------------------------------|-----------------------------------------------|
+|“This is a great Moisture Meter and I agree with all the positive reviews left on this site. BUT the one thing that should be emphasized is that you need to follow the directions about NOT using it on very dry soil, rocky soil etc, which are very clearly detailed in the handy little KLUX Instructions booklet that come with it. Also you need to wipe it off from soil or dirt as the manufacturer recommends. If not, it will eventually stop working and read "DRY" when it is not! As a result you may find yourself (like I did) ordering a new one every few years because it has stopped working! Meanwhile, f you just gently use fine sandpaper on the tip to clean off the natural oxidation that occurs, it works like new!”|Reliable for extended periods of time (latent)|
+| |Fulfills roles advertised to the end-user (explicit)|
+
+|           Voice of the Constomer              |                  User Needs                   |
+|-----------------------------------------------|-----------------------------------------------|
+|“So glad I got this as it really helps because sometimes you can over water or under water your plants in pots and in the ground. and with the very hot weather we are having at the moment it really helps as don’t want to over water or underwater. The probe is really long so perfect for looking after plants. Great value and great piece of kit. Well worth having.”|Long length probe for better utility (latent)|
+| |Good cost to performance ratio (explicit)|
+
+
+<small><b>NEGATIVE COMMENTS</b></small>
+
+|           Voice of the Constomer              |                  User Needs                   |
+|-----------------------------------------------|-----------------------------------------------|
+|“Stay Away!! This is a scam!! This product worked pretty well for about three weeks and then just stopped working altogether. They will not allow you to return it after 30 days. I was just past this time period. I only used it for interior plants, so it was treated very gently, and I never left it sitting in soil for a long time. I always cleaned it with a damp paper towel (between plant readings), so that I am not passing the soil from one plant to another. I had to call Amazon and sit on the phone for 20 minutes to get a return because they will not let you return it after 30 days, but it stopped working after 30 days, so you're just kind of stuck. Stay away and go buy a different product. I did not ask for a replacement. I will just be purchasing a different product. Buyer beware.”|Reliable for extended periods of time (latent)|
+| |Fulfills roles advertised to the end-user (explicit)|
+
+|           Voice of the Constomer              |                  User Needs                   |
+|-----------------------------------------------|-----------------------------------------------|
+|“I bought this for 2 house plants and I started using it for my 2 potted tomato plants outside. The tomato plants have very good soil drainage. I would skip a day after watering, and would get a dry reading. So I would water them. Now my tomato plants have root rot. I thought it was do to all the rain we were having. So I moved the plants on to the porch. The other day I could not find the meter and went and bought one in town. The new meter showed wet. Using the past readings from this meter I thought they would need watered. Now I will be lucky if my tomato plants survive. Today I put the meter in water and it said dry. I used the new meter and it said Wet+. Tossing the meter I bought here.”|Reliable for extended periods of time (latent)|
+| |Fulfills roles advertised to the end-user (explicit)|
+
+|           Voice of the Constomer              |                  User Needs                   |
+|-----------------------------------------------|-----------------------------------------------|
+|“This is a moisture meter that does not measure moisture. After a few months of use, it registers all plants as 'dry', regardless of their moisture level. All plants measure the same moisture level. Even on a plant that has been submerged in water for 24 hours, it says it is at the lowest possible moisture reading. Even when submerged in water, it says it is bone dry. You might as well use a chopstick to take a reading as you will get the same utility out of it.”|Reliable for extended periods of time (latent)
+| |Fulfills roles advertised to the end-user (explicit)|
 
 
 ## Esse quoque sedem plena nunc iecur
