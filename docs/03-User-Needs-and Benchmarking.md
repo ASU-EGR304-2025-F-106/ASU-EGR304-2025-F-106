@@ -52,37 +52,53 @@ SUPER EASY SETUP AND USE: Hydroponics comes with everything you need gardening p
 
 ### Search #2
 
-**Keywords:** "goes here"
+**Keywords:** "plant sensor"
 
-**Search Results Link:** [example.com](https://example.com)
+**Search Results Link:** [https://www.amazon.com/s?k=plant+sensor&ref=nb_sb_noss](https://www.amazon.com/s?k=plant+sensor&ref=nb_sb_noss)
 
 
 ### Selected Products
 
-1. [Name of product](https://example.com)
+1. [4-in-1 Soil Moisture Meter Digital](https://www.amazon.com/Moisture-Temperature-Intensity-Backlight-Gardening/dp/B0DF4TB93J/ref=sr_1_6?dib=eyJ2IjoiMSJ9.N4QdmrOssJrgIWZACcv9MWtC2midTm6U0im0zMMuE-4ffJ3u8YK0i62RGB6SMLglrkS3hlkeCY7gubrw-AZ6_rSlrYMX_eAOTnd5sw2bSNiCpeqzJgv7gNK_4TtPIvdlgNt3LZSd8-S2NC7HLzs_0Fr71im7MH_C7MErKBH16xFzxyFJCiU6PKmhmc4WDe4mZgnp-gv7XqYt8n_Gd1AwQIKLYZqgQxHViv6WWYeuIbCbm9WNHhq8Zk6Kzoyiz1lhSbuFqX9w_vd5DY40HH40tWhMA1qq9_2OFJCGzjVADUo.28z_kVZvqhalNISjmVALK1XU6Whc6kP4pwTLYycL1FU&dib_tag=se&keywords=plant+sensor&qid=1757992357&sr=8-6)
 
-Picture here
+![4 In One Plant Sensor](4_in_1_plant_sensor.jpg)
 
-- Price: $
-- Vendor: 
-- Description: 
+- Price: $32.98
+- Vendor: Amazon
+- Description: This plant sensor is a 4-in-1 digital soil test meter with a display that measures soil moisture, pH, temperature, and sunlight intensity.
 
 <small><b>POSITIVE COMMENTS</b></small>
 
 | Voice of the customer                                       | Restated Customer Need                           |
 |-------------------------------------------------------------|--------------------------------------------------|
-| "What the customer says" | 1. One need (explicit/latent) |
-| | 2. Two need (explicit/latent) | 
-| | 3. Three need (explicit/latent) |
-
+| "I am so impressed with this 4-in-1 soil moisture meter! As someone who loves gardening and taking care of indoor plants, this tool has been a total game changer. It’s so easy to use and gives me accurate readings for soil moisture, pH level, sunlight, and temperature — all in one device! Now I finally know exactly when to water and where to place my plants for the best light. The digital screen is clear and easy to read, and I love that it helps me avoid overwatering or underwatering my plants. It’s lightweight, durable, and doesn’t disturb the roots when testing. Since using this meter, my plants have been healthier and happier than ever. If you love your plants and want to make plant care so much easier, this is definitely worth it. Highly recommend!" | 1. The user needs a tool that is straightforward and easy to use (explicit) |
+| | 2. The user needs accuracy from readings (explicit) | 
+| | 3. The user needs to ensure that their plants are thriving (latent) |
+| "Living where it rarely rains this is a must. Knowing how much to water plants and trees can safe me $$$. Knowing the ph of the soil keeps the veggies happy and growing. The length of the probe will let you know what is at the roots of your plant." | 1. The user needs to save money by knowing when to water their plant (explicit) |
+| | 2. The user needs a long enough probe to measure at the plants roots (explicit) | 
+| | 3. The user needs a way to overcome specific environment challenges, in this case a dry climate (latent) |
+| "I am a teacher and do not have a lot of time for garsening, but when summer hits: look out! This gauge is amazing. I am new to gardening and this helps me not over think everything! I live in central Maine, so zone 5; the climate is a little different every growing year, so this takes the guess work out of when to put it all in the ground." | 1. The user needs a tool that helps with gardening in a way that cuts down on time spent (explicit) |
+| | 2. The user should feel more confident in their gardening abilities through its use (latent) | 
+| | 3. The user needs a way to make informed decisions even in an inconsistent climate (latent) |
+| | 4. The user needs a way to reduce overthinking about plant care (explicit) |
 
 <small><b>NEGATIVE COMMENTS</b></small>
 
 | Voice of the customer                                       | Restated Customer Need                           |
 |-------------------------------------------------------------|--------------------------------------------------|
-| "What the customer says" | 1. One need (explicit/latent) |
-| | 2. Two need (explicit/latent) | 
-| | 3. Three need (explicit/latent) |
+| "Cons: - for successful planning of a garden and house plant maintenance, you need to know how many hours of sunlight the plants will get, not just how intense the light is in one single moment in which you take the measurement. This instrument does not provide this information at all (and it's what I needed the most, and what other reviews don't make clear). It would be much improved if it could be left in a spot for few hours to measure the hours of sunlight exposure. Otherwise, the measure of intensity of light is useless for outdoor gardens (without knowing how many hours of that sun the plants will get). Indoor you might need to measure that, but outdoor it's pretty simple (sun intensity varies by season, and sun intensity doesn't measure the hours of sun exposure) - if your PH is fine (neutral, which most plants seem to prefer), you won't need this functionality a lot. You would only need to recheck the soil PH if you actually needed to modify it. Otherwise, if you're using it in your own yard, soil PH has a tendency to stay the same over time (unless of course you are treating the soil to make it more alkaline or acidic) - so the only useful functionality is the measure of moisture (indoor and outdoor use) and temperature (for outdoor plants). - three stars is for not giving the full picture on sun exposure. Plants need water, sun, and quality soil to thrive. Adequate hours of sun, in my experience, make or break the outdoor garden. So it's a crucial piece of information that you won't get from this tool, and you will need to purchase another tool to obtain." | 1. The user needs to measure sunlight exposure over a period of time (explicit) |
+| | 2. The user needs ongoing utility, rather than one-time measurements (explicit) | 
+| | 3. The user needs data that they consider critical information (latent) |
+| | 4. The user needs a single tool that provides all crucial information without needing additional instruments (explicit) |
+| "The sale’s information does not indicate this product is really intended for outdoor gardening but is listed under houseplant hygrometers. The product is also not intended to register lux intensity from artificial lighting, but rather only from sunlight. This is not indicated in the sale’s information but clearly stated in the user manual." | 1. The user needs a tool that measures light intensity from artificial and natural light (explicit) |
+| | 2. The user needs all critical product information to be clearly stated (explicit) | 
+| | 3. The user needs to feel that they are not being misled (latent) | 
+| | 4. The user needs a product that solves their problem without needing more searching for something else (latent) | 
+| "A Rip-Off. It will tell you if the soil is wet or dry... more or less. If you plan on using this to monitor or even spot-check ph, don't. From the start I noticed that ph readings varied signficantly with the dept of the probe into the soil, from 5.5 down to 3.5. Then it tried to tell me that wood ash is acidic. I checked the readings against results of soil from the same location/depth with the results of a LaMotte and Rapidtest soil test kits. Not even close. It wanted me to believe that a soil which measured around 7.5 was actually acidic, around 4.5. Enough of that, time to return. Please don't expect any different results. I regret that I cannot give this one a 0 for 5 rating." | 1. The user needs a tool that provides precise readings, rather than rough estimates (explicit) |
+| | 2. The user needs consistent and verifiable results (explicit) | 
+| | 3. The user needs logical and believable data that doesnt contradict their own knowledge (latent) | 
+| | 4. The user needs to not feel "riped-off" by something that does not perform its main purposes (latent) | 
+
 
 ### Search #3
 
@@ -113,18 +129,18 @@ Picture here
 
 | Voice of the customer                                       | Restated Customer Need                           |
 |-------------------------------------------------------------|--------------------------------------------------|
-| "I was able to use this item this past weekend with my flowers and part of the garden. The accuracy was great, it was easy to use and relatively inexpensive. I was able to clearly see the results and correct the imbalance in the yard and flowers. This is a really good product and provides speedy results. It appears to be quite durable also. The instructions were clear and quite helpful." | 1. The user needs the product to give accurate and reliable readings so they can confidently adjust their plants and garden. |
-| | 2. The user needs the product to be easy to use with simple setup and clear instructions so anyone can operate it. | 
-| | 3. The user needs the product to be durable for repeated outdoor use while still being affordable for everyday gardeners. |
+| "I was able to use this item this past weekend with my flowers and part of the garden. The accuracy was great, it was easy to use and relatively inexpensive. I was able to clearly see the results and correct the imbalance in the yard and flowers. This is a really good product and provides speedy results. It appears to be quite durable also. The instructions were clear and quite helpful." | 1. The user needs the product to give accurate and reliable readings so they can confidently adjust their plants and garden. (explicit) |
+| "I recently moved to a house with a nice yard for planting, but before doing so, I was in desperate need of this 7-in-1 soil test kit, as it's very practical and easy to use. The best thing about it is that it combines several functions in a single device, measuring moisture, pH, soil fertility, light intensity, and even temperature, all in one tool. It has a clear, easy-to-read display, and the results are quite accurate. It's lightweight, durable, and works immediately without any fuss. I highly recommend it for gardening enthusiasts like me." | 2. The user needs the product to be lightweight, durable, and simple to use so it works right away without hassle. (explicit) | 
+| "It's incredibly useful! It not only measures humidity, but also pH, light intensity, and soil fertility—a versatile device. The clear, intuitive LCD display provides easy-to-understand data. Simply insert it into the soil and the results appear in seconds—very convenient. Since using it, I've been able to water and fertilize my plants more scientifically, and they've grown significantly better." | 3. The user needs the product to be durable for repeated outdoor use while still being affordable for everyday gardeners. (latent) |
 
 
 <small><b>NEGATIVE COMMENTS</b></small>
 
 | Voice of the customer                                       | Restated Customer Need                           |
 |-------------------------------------------------------------|--------------------------------------------------|
-| "Gently and firmly inserted probe into my yard. Product broke 2 inches into my first reading. Disappointed" | 1. The user needs the probe to be strong and durable enough to withstand normal insertion into soil without breaking.|
-| | 2. The user needs the product to handle regular outdoor conditions without failing during first use.| 
-| | 3. The user needs the product to deliver reliable readings consistently instead of breaking and preventing results. |
+| "Gently and firmly inserted probe into my yard. Product broke 2 inches into my first reading. Disappointed" | 1. The user needs the probe to be strong and durable enough to withstand normal insertion into soil without breaking. (explicit) |
+ "Not happy with purchase. I could not get it to work even after chnaging out the batteries that are provided. I'll give it another try before returning." | 2. The user needs a soil tester that is reliable and functions properly out of the box, with dependable power. (explicit) | 
+| "The light meter only recognizes light if I shine a flashlight directly on the sensor" | 3. The user needs a soil tester with a light sensor that accurately detects natural light levels without requiring artificial sources. (latent) |
 
 ### Search #4
 
