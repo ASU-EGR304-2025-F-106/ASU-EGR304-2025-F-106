@@ -20,7 +20,7 @@ tags:
 
 ![Image of Product](image.png)
 
-- Price: $59.99 & $35.99 (On sale -40%)
+- Price: $59.99 or $35.99 (On sale -40%)
 - Vendor: [GARDENCUBE](https://www.amazon.com/stores/GardenCube/page/7FCD375E-B217-4CBE-A621-D35A3A612372?is_byline_deeplink=true&deeplink=BA831E1C-84F1-4A1C-9306-9608880DECCA&redirect_store_id=7FCD375E-B217-4CBE-A621-D35A3A612372&lp_asin=B0BBN193BK&ref_=ast_bln&store_ref=bl_ast_dp_brandLogo_sto)
 - Description: 
 
@@ -37,13 +37,7 @@ SUPER EASY SETUP AND USE: Hydroponics comes with everything you need gardening p
 
 | Voice of the customer                                       | Restated Customer Need                           |
 |-------------------------------------------------------------|--------------------------------------------------|
-| "I purchased this hydroponic growing system, and I am thoroughly impressed with its performance. The system is easy to set up, even for ||beginners.
-
-What really stands out is how quickly my plants started growing. Within just a few weeks, I noticed vibrant, healthy leaves and strong stems. The system circulates water efficiently, which prevents the risk of over-watering and ensures that the plants are getting a consistent supply of nutrients.
-
-The environment for plant growth is incredibly controlled, which means I can grow crops all year round, regardless of outdoor weather conditions. There's minimal maintenance required once it's set up, and I haven't had to deal with pests or weeds, making the process hassle-free.
-
-Overall, I highly recommend this hydroponic system for anyone looking to grow healthy, vibrant plants." | 1. The system is effective showing tangible results in plant growth  (explicit) |
+| "I purchased this hydroponic growing system, and I am thoroughly impressed with its performance. The system is easy to set up, even for beginners. What really stands out is how quickly my plants started growing. Within just a few weeks, I noticed vibrant, healthy leaves and strong stems. The system circulates water efficiently, which prevents the risk of over-watering and ensures that the plants are getting a consistent supply of nutrients. The environment for plant growth is incredibly controlled, which means I can grow crops all year round, regardless of outdoor weather conditions. There's minimal maintenance required once it's set up, and I haven't had to deal with pests or weeds, making the process hassle-free. Overall, I highly recommend this hydroponic system for anyone looking to grow healthy, vibrant plants." | 1. The system is effective showing tangible results in plant growth  (explicit) |
 | | 2. The system has minimal upkeep (explicit) | 
 | | 3. The system is not affected by external variables like weather  (latent) |
 
