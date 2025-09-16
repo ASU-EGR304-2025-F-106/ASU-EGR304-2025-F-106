@@ -143,7 +143,7 @@ SUPER EASY SETUP AND USE: Hydroponics comes with everything you need gardening p
 | "The light meter only recognizes light if I shine a flashlight directly on the sensor" | 3. The user needs a soil tester with a light sensor that accurately detects natural light levels without requiring artificial sources. (latent) |
 
 
-## Search #4
+### Search #4
 
 **Keywords:** “plant monitor system”
 
@@ -151,15 +151,15 @@ SUPER EASY SETUP AND USE: Hydroponics comes with everything you need gardening p
 
 ### Selected Products 
 
-[DIAFIELD Indoor Automatic Plant Waterer](https://www.amazon.com/DIAFIELD-Automatic-Watering-Irrigation-Programmable/dp/B0F21NQCY1?dib=eyJ2IjoiMSJ9.97-1v2-xyuaXvaxLaPI4NJqAWLMzomj9gFTVLg721_FIHGKEGG8B8YoKGtDWLvlKMplazlsQCDq_9Gy9az0KRV_P4Vsw4m47rjKJ7mQwHpfB7uYp0L8njtAJBcpjf25orbWpg2SrQGUYZUOP-Zcxh67QOTWq2dK3iG9HiHYK1VJzxyFJCiU6PKmhmc4WDe4m1GvfLvAT4Ys_ldX3rwEk15GyH6tWlCx0yPgOp8_G1pDgsjAUTGsDr6Nft3VIA6_rxNngY6ZmlQdpRO_p5mEloGhMA1qq9_2OFJCGzjVADUo.ePz_lok5aZ4bV9i_CBR_7j3QTmAy0NNL5m7RNU6K6UA&dib_tag=se&keywords=plant%2Bmonitor%2Bsystem&qid=1757990103&sr=8-8&th=1)
+1. [DIAFIELD Indoor Automatic Plant Waterer](https://www.amazon.com/DIAFIELD-Automatic-Watering-Irrigation-Programmable/dp/B0F21NQCY1?dib=eyJ2IjoiMSJ9.97-1v2-xyuaXvaxLaPI4NJqAWLMzomj9gFTVLg721_FIHGKEGG8B8YoKGtDWLvlKMplazlsQCDq_9Gy9az0KRV_P4Vsw4m47rjKJ7mQwHpfB7uYp0L8njtAJBcpjf25orbWpg2SrQGUYZUOP-Zcxh67QOTWq2dK3iG9HiHYK1VJzxyFJCiU6PKmhmc4WDe4m1GvfLvAT4Ys_ldX3rwEk15GyH6tWlCx0yPgOp8_G1pDgsjAUTGsDr6Nft3VIA6_rxNngY6ZmlQdpRO_p5mEloGhMA1qq9_2OFJCGzjVADUo.ePz_lok5aZ4bV9i_CBR_7j3QTmAy0NNL5m7RNU6K6UA&dib_tag=se&keywords=plant%2Bmonitor%2Bsystem&qid=1757990103&sr=8-8&th=1)
 
 ![Image of DIAFIELD Indoor Automatic Plant Waterer](DIAFIELD.png)
 
-Price: $21.79
+- Price: $21.79
 
-Vendor: Amazon
+- Vendor: Amazon
 
-Description: 
+- Description: 
 
 - Automatic Drip Irrigation Kit: Upgrade your watering routine with our automatic 
 watering system, eliminating the need for daily watering hassles and allowing you 
@@ -198,21 +198,23 @@ even when you are away from home
 |“Great idea, returned after reading the directions. Never opened any of the other parts. Not for an 81 year old to setup!”|Designed for ease of use by the end-user (explicit)|
 |“It's very hard to get to operate”|Designed for ease of use by the end-user (explicit)|
 
-## Search #5
+### Search #5
 
 **Keywords:** “plant monitor system”
 
-**Search Results Link:**  [XLUX Soil Moisture Meter](https://www.amazon.com/XLUX-Soil-Moisture-Sensor-Meter/dp/B014MJ8J2U?dib=eyJ2IjoiMSJ9.97-1v2-xyuaXvaxLaPI4NJqAWLMzomj9gFTVLg721_FIHGKEGG8B8YoKGtDWLvlKMplazlsQCDq_9Gy9az0KRV_P4Vsw4m47rjKJ7mQwHpfB7uYp0L8njtAJBcpjf25orbWpg2SrQGUYZUOP-Zcxh67QOTWq2dK3iG9HiHYK1VJzxyFJCiU6PKmhmc4WDe4m1GvfLvAT4Ys_ldX3rwEk15GyH6tWlCx0yPgOp8_G1pDgsjAUTGsDr6Nft3VIA6_rxNngY6ZmlQdpRO_p5mEloGhMA1qq9_2OFJCGzjVADUo.ePz_lok5aZ4bV9i_CBR_7j3QTmAy0NNL5m7RNU6K6UA&dib_tag=se&keywords=plant%2Bmonitor%2Bsystem&qid=1757990103&sr=8-7&th=1)
+**Search Results Link:**  [https://www.amazon.com/s?k=plant+monitor+system](https://www.amazon.com/s?k=plant+monitor+system)
 
 ### Selected Products
 
+1. [XLUX Soil Moisture Meter](https://www.amazon.com/XLUX-Soil-Moisture-Sensor-Meter/dp/B014MJ8J2U?dib=eyJ2IjoiMSJ9.97-1v2-xyuaXvaxLaPI4NJqAWLMzomj9gFTVLg721_FIHGKEGG8B8YoKGtDWLvlKMplazlsQCDq_9Gy9az0KRV_P4Vsw4m47rjKJ7mQwHpfB7uYp0L8njtAJBcpjf25orbWpg2SrQGUYZUOP-Zcxh67QOTWq2dK3iG9HiHYK1VJzxyFJCiU6PKmhmc4WDe4m1GvfLvAT4Ys_ldX3rwEk15GyH6tWlCx0yPgOp8_G1pDgsjAUTGsDr6Nft3VIA6_rxNngY6ZmlQdpRO_p5mEloGhMA1qq9_2OFJCGzjVADUo.ePz_lok5aZ4bV9i_CBR_7j3QTmAy0NNL5m7RNU6K6UA&dib_tag=se&keywords=plant%2Bmonitor%2Bsystem&qid=1757990103&sr=8-7&th=1)
+
 ![Image of XLUX Soil Moisture Meter](XLUX.png)
 
-Price: $12.99
+- Price: $12.99
 
-Vendor: Amazon
+- Vendor: Amazon
 
-Description:
+- Description:
 
 - Accurate Soil Moisture Detection：The XLUX Soil Moisture Meter can tell you if the 
 soil deep inside your pot or garden is dry, moist or wet; whereas your eyes and fingers 
