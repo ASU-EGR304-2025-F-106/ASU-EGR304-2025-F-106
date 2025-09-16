@@ -5,15 +5,32 @@ tags:
 - tag2
 ---
 
-## Et poposcerat rursus ad magnus premit
+## Voices of the Customers Benchmarking
 
-Lorem markdownum gradus, qui largis, nec pater pleno: fatum. Adspexit cursus
-cur, aut in adhuc crimina **habebat**: pro.
+# Search #1
 
-- Et ducimus
-- Prosecta hinc nix vidi rettulit cum sitim
-- Has in tonitribus tenebrae Romane mirantum resupina
-- Figuras et dextram
+**Keywords:** "goes here"
+
+**Search Results Link:** <example.com>
+
+
+# Selected Products
+
+1. [Name of product](example.com)
+
+Picture here
+
+- Price: $
+- Vendor: 
+- Description: 
+
+## Positive Comments
+| Voice of the customer                                       | Restated Customer Need                           |
+|-------------------------------------------------------------|--------------------------------------------------|
+| "What the customer says" | 1. One need (explicit/latent) |
+| | 2. Two need (explicit/latent) | 
+| | 3. Three need (explicit/latent) |
+
 
 ## Esse quoque sedem plena nunc iecur
 
