@@ -11,12 +11,12 @@ tags:
 
 **Keywords:** "goes here"
 
-**Search Results Link:** [example.com](example.com)
+**Search Results Link:** [example.com](https://example.com)
 
 
 ### Selected Products
 
-1. [Name of product](example.com)
+1. [Name of product](https://example.com)
 
 Picture here
 
