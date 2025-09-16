@@ -7,14 +7,14 @@ tags:
 
 ## Voices of the Customers Benchmarking
 
-# Search #1
+### Search #1
 
 **Keywords:** "goes here"
 
-**Search Results Link:** <example.com>
+**Search Results Link:** [example.com](example.com)
 
 
-# Selected Products
+### Selected Products
 
 1. [Name of product](example.com)
 
@@ -24,13 +24,20 @@ Picture here
 - Vendor: 
 - Description: 
 
-## Positive Comments
+<small><b>POSITIVE COMMENTS</b></small>
 | Voice of the customer                                       | Restated Customer Need                           |
 |-------------------------------------------------------------|--------------------------------------------------|
 | "What the customer says" | 1. One need (explicit/latent) |
 | | 2. Two need (explicit/latent) | 
 | | 3. Three need (explicit/latent) |
 
+
+<small><b>NEGATIVE COMMENTS</b></small>
+| Voice of the customer                                       | Restated Customer Need                           |
+|-------------------------------------------------------------|--------------------------------------------------|
+| "What the customer says" | 1. One need (explicit/latent) |
+| | 2. Two need (explicit/latent) | 
+| | 3. Three need (explicit/latent) |
 
 ## Esse quoque sedem plena nunc iecur
 
