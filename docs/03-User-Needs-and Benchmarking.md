@@ -86,16 +86,16 @@ Picture here
 
 ### Search #3
 
-**Keywords:** "goes here"
+**Keywords:** "Plant Sensor"
 
-**Search Results Link:** [example.com](https://example.com)
+**Search Results Link:** [Amazon.com](https://www.amazon.com/s?k=plant+sensor&crid=392HF55R82DY&sprefix=%2Caps%2C111&ref=nb_sb_ss_recent_1_0_recent)
 
 
 ### Selected Products
 
-1. [Name of product](https://example.com)
+1. [7-in-one Soil Test Kit, Soil Moisture Meter/PH Meter/Sunlight Intensity/Fertility Soil Tester, LCD Display Air & Soil Hygrometer Temperature](https://www.amazon.com/dp/B0FCXTFMJB/ref=sspa_dk_detail_4?pd_rd_i=B0FCXTFMJB&pd_rd_w=dNV6L&content-id=amzn1.sym.30062d3d-2c31-47f3-af26-55177a669bb5&pf_rd_p=30062d3d-2c31-47f3-af26-55177a669bb5&pf_rd_r=XMC5S4CN1HGSJ666HDNZ&pd_rd_wg=lVBd2&pd_rd_r=8bfaf637-efcd-4a56-bb61-307ae4f0c53c&sp_csd=d2lkZ2V0TmFtZT1zcF9kZXRhaWxfdGhlbWF0aWM&th=1)
 
-Picture here
+![Image of Product](search3.png)
 
 - Price: $
 - Vendor: 
