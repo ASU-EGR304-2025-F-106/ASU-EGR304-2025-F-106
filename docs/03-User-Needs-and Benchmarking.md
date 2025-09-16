@@ -61,7 +61,7 @@ SUPER EASY SETUP AND USE: Hydroponics comes with everything you need gardening p
 
 1. [4-in-1 Soil Moisture Meter Digital](https://www.amazon.com/Moisture-Temperature-Intensity-Backlight-Gardening/dp/B0DF4TB93J/ref=sr_1_6?dib=eyJ2IjoiMSJ9.N4QdmrOssJrgIWZACcv9MWtC2midTm6U0im0zMMuE-4ffJ3u8YK0i62RGB6SMLglrkS3hlkeCY7gubrw-AZ6_rSlrYMX_eAOTnd5sw2bSNiCpeqzJgv7gNK_4TtPIvdlgNt3LZSd8-S2NC7HLzs_0Fr71im7MH_C7MErKBH16xFzxyFJCiU6PKmhmc4WDe4mZgnp-gv7XqYt8n_Gd1AwQIKLYZqgQxHViv6WWYeuIbCbm9WNHhq8Zk6Kzoyiz1lhSbuFqX9w_vd5DY40HH40tWhMA1qq9_2OFJCGzjVADUo.28z_kVZvqhalNISjmVALK1XU6Whc6kP4pwTLYycL1FU&dib_tag=se&keywords=plant+sensor&qid=1757992357&sr=8-6)
 
-![4 In One Plant Sensor](4_in_1_plant_sensor.png)
+![4 In One Plant Sensor](4_in_1_plant_sensor.jpg)
 
 - Price: $32.98
 - Vendor: Amazon
