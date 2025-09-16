@@ -97,26 +97,34 @@ Picture here
 
 ![Image of Product](search3.png)
 
-- Price: $
-- Vendor: 
+- Price: $31.99
+- Vendor: TryOpen Store
 - Description: 
+
+**7 functions,Scientific maintenance:**The soil testing kit is more suitable for beginners, and can help you comprehensively understand the soil conditions of gardens and lawns, solving your confusion. You can adjust soil moisture and pH according to the values, and you can also clearly see the air temperature and humidity as well as soil temperature through the LCD display to improve plant growing conditions in time and scientifically nurture seedlings to help you make your plants flourish.
+
+**Design Patented US & Utility Patented US:**Originate Designed -combined with both soil meter and LCD-display soil/air temperature and humidity meter for plants. This allows you to monitor soil moisture/pH/fertility/sunlight and soil temperature/air humidity and temperature in your garden/house all in one unit. Our soil meter can help you to get a more comprehensive and direct understanding of your plants/ the key information for scientific seedlings,easy to operate and clear reading
+
+**Metal probes, Fast and Accurate:**Our soil tester probes are made of high-quality metal materials, which are more corrosion-resistant than ordinary materials. Moreover, metal materials have high conductivity and sensitivity, greatly improving the speed and accuracy of soil moisture and pH detection and analysis, allowing you to quickly and accurately understand the growth environment of plants.
+
+**Widely Used:**home gardening, rice planting, vegetable planting, potted planting, flower planting, greenhouse planting, soil testing, etc., to meet your needs for soil moisture testing, soil fertility testing, soil pH testing, sunlight intensity testing, air humidity testing, air temperature testing and soil temperature testing.
 
 <small><b>POSITIVE COMMENTS</b></small>
 
 | Voice of the customer                                       | Restated Customer Need                           |
 |-------------------------------------------------------------|--------------------------------------------------|
-| "What the customer says" | 1. One need (explicit/latent) |
-| | 2. Two need (explicit/latent) | 
-| | 3. Three need (explicit/latent) |
+| "I was able to use this item this past weekend with my flowers and part of the garden. The accuracy was great, it was easy to use and relatively inexpensive. I was able to clearly see the results and correct the imbalance in the yard and flowers. This is a really good product and provides speedy results. It appears to be quite durable also. The instructions were clear and quite helpful." | 1. The user needs the product to give accurate and reliable readings so they can confidently adjust their plants and garden. |
+| | 2. The user needs the product to be easy to use with simple setup and clear instructions so anyone can operate it. | 
+| | 3. The user needs the product to be durable for repeated outdoor use while still being affordable for everyday gardeners. |
 
 
 <small><b>NEGATIVE COMMENTS</b></small>
 
 | Voice of the customer                                       | Restated Customer Need                           |
 |-------------------------------------------------------------|--------------------------------------------------|
-| "What the customer says" | 1. One need (explicit/latent) |
-| | 2. Two need (explicit/latent) | 
-| | 3. Three need (explicit/latent) |
+| "Gently and firmly inserted probe into my yard. Product broke 2 inches into my first reading. Disappointed" | 1. The user needs the probe to be strong and durable enough to withstand normal insertion into soil without breaking.|
+| | 2. The user needs the product to handle regular outdoor conditions without failing during first use.| 
+| | 3. The user needs the product to deliver reliable readings consistently instead of breaking and preventing results. |
 
 ### Search #4
 
