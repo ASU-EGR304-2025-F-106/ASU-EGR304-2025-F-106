@@ -253,3 +253,124 @@ After testing, please wipe the probe clean.
 | |Fulfills roles advertised to the end-user (explicit)|
 |“This is a moisture meter that does not measure moisture. After a few months of use, it registers all plants as 'dry', regardless of their moisture level. All plants measure the same moisture level. Even on a plant that has been submerged in water for 24 hours, it says it is at the lowest possible moisture reading. Even when submerged in water, it says it is bone dry. You might as well use a chopstick to take a reading as you will get the same utility out of it.”|Reliable for extended periods of time (latent)
 | |Fulfills roles advertised to the end-user (explicit)|
+
+
+
+## 100 Grouped Needs Sorted by Importance of Group
+1. Ease of Use (15 needs) **Meta Need: The user needs a seamless and intuitive experience** 
+    - Easy to set up out of the box.
+    - Clear instructions without technical jargon.
+    - Simple calibration process.
+    - Mobile app with intuitive interface.
+    - Multilingual support in the app and device.
+    - Plug-and-play installation (no special tools).
+    - Clear visual indicators (e.g., LEDs).
+    - Automatic firmware updates.
+    - Ability to share access with family/housemates.
+    - Voice assistant integration (Alexa, Google).
+    - Guided onboarding within the app.
+    - Customizable notification preferences.
+    - Quick troubleshooting guide.
+    - Battery replacement or charging instructions are obvious.
+    - Universal soil probe size (fits most pots).
+
+2. Functionality (25 needs) **Meta Need: The product will provide critical information**
+    - Accurate soil moisture measurement.
+    - Detects under-watering.
+    - Detects over-watering.
+    - Measures ambient light levels.
+    - Tracks light exposure duration.
+    - Measures soil temperature.
+    - Measures air temperature.
+    - Detects soil fertility/EC levels.
+    - Records historical trends over time.
+    - Provides actionable insights (e.g., “Water in 2 days”).
+    - Integrates with irrigation systems.
+    - Multi-plant support within one app.
+    - Alerts for extreme conditions (frost, heatwave).
+    - Seasonal growing advice.
+    - Growth stage–specific recommendations.
+    - Personalized plant care tips based on species.
+    - Sensor accuracy in different soil types.
+    - Works for indoor and outdoor use.
+    - Syncs with grow lights.
+    - Alerts for sudden condition changes.
+    - Cross-checks data with local weather info.
+    - Automatic adjustment of thresholds by plant type.
+    - Smart reminders (fertilizer, repotting).
+    - Works even in low-connectivity environments.
+    - Detects when the sensor is removed from soil.
+
+3. Safety & Durability (10 needs) **Meta Need: The product will protect both itself and the user**
+    - Waterproof and weatherproof design.
+    - Safe for pets and children (no sharp edges).
+    - Non-toxic materials.
+    - Resistant to mold, rust, or soil corrosion.
+    - Withstands extreme outdoor conditions.
+    - Overheat protection if left in sun.
+    - Tamper-resistant design.
+    - Alerts if the device is malfunctioning.
+    - UV-resistant casing.
+    - Compliance with electrical safety standards.
+
+4. Reliability & Performance (12 needs) **Meta Need: The product must be consistent and reliable**
+    - Long battery life.
+    - Reliable data accuracy.
+    - Stable wireless connection.
+    - Minimal signal interference indoors.
+    - Continues functioning during power outages.
+    - Minimal lag between measurement and app update.
+    - Sensor doesn’t degrade quickly in soil.
+    - Regular self-diagnostics.
+    - No false alarms.
+    - Consistent performance across seasons.
+    - Software stability (no frequent crashes).
+    - Secure data transmission.
+
+5. Sustainability (8 needs) **Meta Need: The product must have a long-term life cycle**
+    - Rechargeable battery.
+    - Solar charging option.
+    - Energy-efficient design.
+    - Recyclable packaging.
+    - Minimal use of plastics.
+    - Long lifespan of device.
+    - Repairable parts (not disposable).
+    - Environmentally safe disposal instructions.
+
+6. Connectivity & Integration (10 needs) **Meta Need: The product must be integrated smoothly with a users life**
+    - Wi-Fi connectivity.
+    - Bluetooth option for local use.
+    - Cloud storage for plant data.
+    - Sync across multiple devices.
+    - Works with smart home ecosystems.
+    - Option to export data (CSV, Excel).
+    - Remote monitoring when away.
+    - API access for advanced users.
+    - OTA (over-the-air) firmware upgrades.
+    - Offline mode when internet isn’t available.
+
+7. Aesthetics & Design (6 needs) **Meta Need: The product must fit with where it is placed**
+    - Compact, unobtrusive design.
+    - Neutral colors to blend with pots.
+    - Option for decorative casing.
+    - Doesn’t overshadow the plant visually.
+    - Minimalist style that fits modern homes.
+    - Ergonomic probe design for easy insertion.
+
+8. Support & Education (7 needs) **Meta Need: The product should provide critical knowledge**
+    - Plant library with species-specific care profiles.
+    - Troubleshooting guides within app.
+    - Community forum integration.
+    - Educational tips about plant biology.
+    - Seasonal plant care alerts.
+    - Access to customer support chat.
+    - Tutorials for advanced users.
+
+9. Value & Cost (7 needs) **Meta Need: The product should be transparent and a worthy investment**
+    - Affordable purchase price.
+    - Optional subscription for advanced features.
+    - Free basic app features.
+    - Clear return/warranty policy.
+    - Value for long-term plant health savings.
+    - Bulk discounts for multiple sensors.
+    - Transparency on hidden costs (no surprises).
