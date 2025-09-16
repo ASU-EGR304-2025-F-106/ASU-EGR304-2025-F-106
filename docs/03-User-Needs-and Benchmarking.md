@@ -114,8 +114,8 @@ Picture here
 | Voice of the customer                                       | Restated Customer Need                           |
 |-------------------------------------------------------------|--------------------------------------------------|
 | "I was able to use this item this past weekend with my flowers and part of the garden. The accuracy was great, it was easy to use and relatively inexpensive. I was able to clearly see the results and correct the imbalance in the yard and flowers. This is a really good product and provides speedy results. It appears to be quite durable also. The instructions were clear and quite helpful." | 1. The user needs the product to give accurate and reliable readings so they can confidently adjust their plants and garden. |
-| | 2. The user needs the product to be easy to use with simple setup and clear instructions so anyone can operate it. | 
-| | 3. The user needs the product to be durable for repeated outdoor use while still being affordable for everyday gardeners. |
+| "I recently moved to a house with a nice yard for planting, but before doing so, I was in desperate need of this 7-in-1 soil test kit, as it's very practical and easy to use. The best thing about it is that it combines several functions in a single device, measuring moisture, pH, soil fertility, light intensity, and even temperature, all in one tool. It has a clear, easy-to-read display, and the results are quite accurate. It's lightweight, durable, and works immediately without any fuss. I highly recommend it for gardening enthusiasts like me." | 2. The user needs the product to be lightweight, durable, and simple to use so it works right away without hassle. | 
+| "It's incredibly useful! It not only measures humidity, but also pH, light intensity, and soil fertility—a versatile device. The clear, intuitive LCD display provides easy-to-understand data. Simply insert it into the soil and the results appear in seconds—very convenient. Since using it, I've been able to water and fertilize my plants more scientifically, and they've grown significantly better." | 3. The user needs the product to be durable for repeated outdoor use while still being affordable for everyday gardeners. |
 
 
 <small><b>NEGATIVE COMMENTS</b></small>
@@ -123,8 +123,8 @@ Picture here
 | Voice of the customer                                       | Restated Customer Need                           |
 |-------------------------------------------------------------|--------------------------------------------------|
 | "Gently and firmly inserted probe into my yard. Product broke 2 inches into my first reading. Disappointed" | 1. The user needs the probe to be strong and durable enough to withstand normal insertion into soil without breaking.|
-| | 2. The user needs the product to handle regular outdoor conditions without failing during first use.| 
-| | 3. The user needs the product to deliver reliable readings consistently instead of breaking and preventing results. |
+ "Not happy with purchase. I could not get it to work even after chnaging out the batteries that are provided. I'll give it another try before returning." | 2. The user needs a soil tester that is reliable and functions properly out of the box, with dependable power. | 
+| "The light meter only recognizes light if I shine a flashlight directly on the sensor" | 3. The user needs a soil tester with a light sensor that accurately detects natural light levels without requiring artificial sources. |
 
 ### Search #4
 
