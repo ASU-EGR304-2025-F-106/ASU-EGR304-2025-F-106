@@ -20,9 +20,10 @@ tags:
 
 ![Image of Product](image.png)
 
-- Price: $59.99 (off sale) $35.99 (On sale -40%)
+- Price: $59.99 & $35.99 (On sale -40%)
 - Vendor: [GARDENCUBE](https://www.amazon.com/stores/GardenCube/page/7FCD375E-B217-4CBE-A621-D35A3A612372?is_byline_deeplink=true&deeplink=BA831E1C-84F1-4A1C-9306-9608880DECCA&redirect_store_id=7FCD375E-B217-4CBE-A621-D35A3A612372&lp_asin=B0BBN193BK&ref_=ast_bln&store_ref=bl_ast_dp_brandLogo_sto)
 - Description: 
+
 **HARVEST ANYWHERE & ANYTIME:** Indoor gardening system efficient 24-watt LED grow light simulates optimal effects of sunlight. Technology optimized for plants, herbs garden LED panel can be adjusted to 180° maximum and 21inches maximum height, plants receive more illumination area, maximize photosynthesis, and also more convenient for pruning branch leaves. Hydroponics plants grow 5 times faster than soil, harvest fresh all year round
 
 **QUIET SMART WATERING SYSTEM:** Hydroponic growing system water pump with premium quality ceramic core technology, super quiet (less than 20 dB). The pump runs every 30 minutes, not only efficient and energy-saving but also provides oxygen for better root development. Indoor herb garden designed with the water shortage indicator, don't worry about forgetting to water
@@ -36,7 +37,7 @@ SUPER EASY SETUP AND USE: Hydroponics comes with everything you need gardening p
 
 | Voice of the customer                                       | Restated Customer Need                           |
 |-------------------------------------------------------------|--------------------------------------------------|
-| "I purchased this hydroponic growing system, and I am thoroughly impressed with its performance. The system is easy to set up, even for beginners.
+| "I purchased this hydroponic growing system, and I am thoroughly impressed with its performance. The system is easy to set up, even for ||beginners.
 
 What really stands out is how quickly my plants started growing. Within just a few weeks, I noticed vibrant, healthy leaves and strong stems. The system circulates water efficiently, which prevents the risk of over-watering and ensures that the plants are getting a consistent supply of nutrients.
 
@@ -51,13 +52,13 @@ Overall, I highly recommend this hydroponic system for anyone looking to grow he
 
 | Voice of the customer                                       | Restated Customer Need                           |
 |-------------------------------------------------------------|--------------------------------------------------|
-| "We love this unit but the pump motors keep failing. We have replaced this product twice now through Amazon and now our most recent replacement is having the same issues.
+| "We love this unit but the pump motors keep failing. We have replaced this product twice now through Amazon and now our most recent replacement is having the same issues.|
 
-It starts out great right out of the box. We followed the instructions and started growing our own cilantro, parsley, basil, and oregano right away. The produce tastes so amazing that we ended up getting a second unit hoping we would no longer have to buy the items we grow from the grocery store.
+|It starts out great right out of the box. We followed the instructions and started growing our own cilantro, parsley, basil, and oregano right away. The produce tastes so amazing that we ended up getting a second unit hoping we would no longer have to buy the items we grow from the grocery store.|
 
-During weeks 3-4 the pump motors keep failing. They will start off silent but then after about the third week you will start having a noticeable buzzing noise. We have tried everything from trimming the root systems down and also removing the pump and thoroughly cleaning it. Nothing works. It ends up getting so loud that it is unbearable.
+|During weeks 3-4 the pump motors keep failing. They will start off silent but then after about the third week you will start having a noticeable buzzing noise. We have tried everything from trimming the root systems down and also removing the pump and thoroughly cleaning it. Nothing works. It ends up getting so loud that it is unbearable.|
 
-If they could fix this issue I would give this product 5 stars. Being that I have already replaced two and the third one is now doing the same thing there is definitely a quality issue. For now I will keep replacing them through Amazon as long as they let me. But maybe a pricier unit from another brand might be in store for us down the road." | 1. The systems components must be able to last a long duration and can be easily replaced if needed (explicit) |
+|If they could fix this issue I would give this product 5 stars. Being that I have already replaced two and the third one is now doing the same thing there is definitely a quality issue. For now I will keep replacing them through Amazon as long as they let me. But maybe a pricier unit from another brand might be in store for us down the road."| | 1. The systems components must be able to last a long duration and can be easily replaced if needed (explicit) |
 | | 2. The system must have a minimal footprint not taking up too much space and not making excessive noise (explicit) | 
 | | 3. The systems components need to be durable so they will be in perfect working condition even after an external disturbance (latent) |
 
