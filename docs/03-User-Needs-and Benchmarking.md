@@ -183,9 +183,6 @@ even when you are away from home
 | |Fulfills roles advertised to the end-user (explicit)|
 |“Easy to setup. Easy to program. Fully installed, programmed and tested for 3 large plants in about 15 minutes. Make sure to make straight 90 degree cuts on tubing and push tubing all the way down on the connecting tees to avoid leaks.”|Designed for ease of use by the end-user (explicit)| 
 | |More thorough user instructions to avoid problems (latent)|
-
-| Voice of the customer                                       | Restated Customer Need                           |
-|-------------------------------------------------------------|--------------------------------------------------|
 |“This worked well, and was fairly easy to set up. It kept my bonsai alive while I was out of town for a week, at least.”|Designed for ease of use by the end-user (explicit)| 
 | |Reliable for extended periods of time (latent)|
 
@@ -196,13 +193,7 @@ even when you are away from home
 |-------------------------------------------------------------|--------------------------------------------------|
 |“I am so disappointed that this product did not work for me. All the reviews that I had read prior to the purchase had been very good. One day after I had installed the system, I removed the stakes from my plants to test it and to attempt to determine how much water was being distributed to each plant. However, after removing the stakes, 4 of the 7 stakes I used continued to drip although the system had been turned off. I put the 4 dripping stakes in a large pot to allow any potential residual water in the tubing time to empty. 4 hours later, the pot was 2/3 full and each stake continued to drip at a rate of about two drops per second. The only way I could stop the dripping was to disconnect the power and remove the filter from the water source. I contacted the product customer service. Although she was very nice and did confirm that there was residual water in the tubing, she could offer no additional suggestions. I am returning the system.”|Reliable for extended periods of time (latent)|
 | |Fulfills roles advertised to the end-user (explicit)|
-
-| Voice of the customer                                       | Restated Customer Need                           |
-|-------------------------------------------------------------|--------------------------------------------------|
 |“Great idea, returned after reading the directions. Never opened any of the other parts. Not for an 81 year old to setup!”|Designed for ease of use by the end-user (explicit)|
-
-| Voice of the customer                                       | Restated Customer Need                           |
-|-------------------------------------------------------------|--------------------------------------------------|
 |“It's very hard to get to operate”|Designed for ease of use by the end-user (explicit)|
 
 ## Search #5
@@ -240,14 +231,8 @@ After testing, please wipe the probe clean.
 |-------------------------------------------------------------|--------------------------------------------------|
 |"Very useful, works great and I love the long length!! I have another shorter one, but this one is better because of the length. Good value. I dug down with my finger on dry and wet soils and it is accurate.”|Good cost to performance ratio (explicit)|
 | |Long length probe for better utility (latent)|
-
-| Voice of the customer                                       | Restated Customer Need                           |
-|-------------------------------------------------------------|--------------------------------------------------|
 |“This is a great Moisture Meter and I agree with all the positive reviews left on this site. BUT the one thing that should be emphasized is that you need to follow the directions about NOT using it on very dry soil, rocky soil etc, which are very clearly detailed in the handy little KLUX Instructions booklet that come with it. Also you need to wipe it off from soil or dirt as the manufacturer recommends. If not, it will eventually stop working and read "DRY" when it is not! As a result you may find yourself (like I did) ordering a new one every few years because it has stopped working! Meanwhile, f you just gently use fine sandpaper on the tip to clean off the natural oxidation that occurs, it works like new!”|Reliable for extended periods of time (latent)|
 | |Fulfills roles advertised to the end-user (explicit)|
-
-| Voice of the customer                                       | Restated Customer Need                           |
-|-------------------------------------------------------------|--------------------------------------------------|
 |“So glad I got this as it really helps because sometimes you can over water or under water your plants in pots and in the ground. and with the very hot weather we are having at the moment it really helps as don’t want to over water or underwater. The probe is really long so perfect for looking after plants. Great value and great piece of kit. Well worth having.”|Long length probe for better utility (latent)|
 | |Good cost to performance ratio (explicit)|
 
@@ -258,13 +243,7 @@ After testing, please wipe the probe clean.
 |-------------------------------------------------------------|--------------------------------------------------|
 |“Stay Away!! This is a scam!! This product worked pretty well for about three weeks and then just stopped working altogether. They will not allow you to return it after 30 days. I was just past this time period. I only used it for interior plants, so it was treated very gently, and I never left it sitting in soil for a long time. I always cleaned it with a damp paper towel (between plant readings), so that I am not passing the soil from one plant to another. I had to call Amazon and sit on the phone for 20 minutes to get a return because they will not let you return it after 30 days, but it stopped working after 30 days, so you're just kind of stuck. Stay away and go buy a different product. I did not ask for a replacement. I will just be purchasing a different product. Buyer beware.”|Reliable for extended periods of time (latent)|
 | |Fulfills roles advertised to the end-user (explicit)|
-
-| Voice of the customer                                       | Restated Customer Need                           |
-|-------------------------------------------------------------|--------------------------------------------------|
 |“I bought this for 2 house plants and I started using it for my 2 potted tomato plants outside. The tomato plants have very good soil drainage. I would skip a day after watering, and would get a dry reading. So I would water them. Now my tomato plants have root rot. I thought it was do to all the rain we were having. So I moved the plants on to the porch. The other day I could not find the meter and went and bought one in town. The new meter showed wet. Using the past readings from this meter I thought they would need watered. Now I will be lucky if my tomato plants survive. Today I put the meter in water and it said dry. I used the new meter and it said Wet+. Tossing the meter I bought here.”|Reliable for extended periods of time (latent)|
 | |Fulfills roles advertised to the end-user (explicit)|
-
-| Voice of the customer                                       | Restated Customer Need                           |
-|-------------------------------------------------------------|--------------------------------------------------|
 |“This is a moisture meter that does not measure moisture. After a few months of use, it registers all plants as 'dry', regardless of their moisture level. All plants measure the same moisture level. Even on a plant that has been submerged in water for 24 hours, it says it is at the lowest possible moisture reading. Even when submerged in water, it says it is bone dry. You might as well use a chopstick to take a reading as you will get the same utility out of it.”|Reliable for extended periods of time (latent)
 | |Fulfills roles advertised to the end-user (explicit)|
