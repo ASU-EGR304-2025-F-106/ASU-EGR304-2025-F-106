@@ -57,5 +57,9 @@ The new product design will be based on that of the AirPods with improvements ba
 
 ## Open Questions
 
-* Can we move towards a recyclable and repairable product, for example, with ZIF connectors and glue-free assembly?
-* Can we improve on failing or self-igniting batteries?
+* Should the device be standalone with a small display or fully app integrated?
+* Can we design the system to automatically water plants, or should it only give alerts to water the plant?
+* What is the most the product can hold sensor wise without complicating the systema as well as overpricing?
+* Should the main power source run on plug in or be solar powered? 
+* Is there enough testing time to ensure our product will be durable in the Arizona heat?
+* What is considered a easy to use interface if we are aiming to be user friendly for all ages?
