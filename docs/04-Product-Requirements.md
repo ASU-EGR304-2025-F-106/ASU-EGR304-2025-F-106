@@ -70,8 +70,35 @@ This product will be designed as a new and original plant, soil, and water monit
 
 ## Requirement Criteria Specifications
 
-* 1.1.1 - Regulate system power from 9 volts to 5 volts
-* 1.1.2 - Provide over-amperage project to not exceed 1.5 amps.
+1. **Hardware/Product Design**
+
+	* 1.1.1 - Device operates for at least a week with at most minor maintainance.
+	* 1.2.1 - Device is no larger than similar products on the market. Any noise created by the meachine cannot be heard by a user from more than 2ft away.
+	* 1.3.1 - Device is thematically similar to other products on the market and is inconspicuous.
+2. **Software/Functionality**
+	* 2.1.1 - Device is capable of outputing all required information when requested.
+	* 2.2.1 - Device is able to use a WIFI connection to interact with a smartphone app.
+	* 2.3.1 - Device settings are easily modified through app.
+
+3. **Interactivity & User Experience**
+	* 3.1.1 - Test group able to assemble product within 10 minutes using instruction manual.
+	* 3.2.1 - Test group able to access settings in app without confusion.
+	* 3.3.1 - Test group is mostly satisfied with product.
+
+4. **Customization**
+	* 4.1.1 - Product is presented with multiple color options.
+	* 4.2.1 - Product has built-in modularity which allows for additional modules to be added.
+	* 4.3.1 - Product is capable of operating effectively in various environmental conditions.
+
+5. **Manufacturing**
+	* 5.1.1 - Product has DFA Efficiency no less than 10% and manufacturing cost no more than the average cost of simlar items on the market.
+	* 5.2.1 - Product has a defective product ratio of less than 1%.
+	* 5.3.1 - Product production lines only produce a single variant of the product.
+
+6. **Safety**
+	* 6.1.1 - Product meets all required federal and state safety standards.
+	* 6.2.1 - Product weighs less than 10lbs.
+	* 6.3.1 - Product has a waterproof rating of at least IPX-5.
 
 ## Open Questions
 
