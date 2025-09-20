@@ -25,6 +25,12 @@ Jenna is a 33-year-old executive who regularly visits a bar for lunch to blow of
 
 Jenna occasionally visits the bar in the evenings. She is a big fan of the L.A. Lakers, and whenever they play, she streams the live footage through her phone. Her new earbuds allow her to easily switch to hearing everything around her and streaming the match commentary without having to ever take the earbuds out.  She sometimes gets compliments on how stylish the earbuds look on her, and she wouldn’t want to miss out on hearing those either.
 
+**User Story #2: Maria**
+Maria is a 27-year-old college student living in Arizona. The hot and dry climate makes it difficult for her to keep her indoor plants healthy. She forgets to water them sometimes and it can be hard to tell if she is overwatering or underwatering. With the plant sensor device, Maria can easily monitor soil moisture, temperature, and light. When her plants are getting dry, the system not only alerts her but can also trigger a small watering function automatically. This gives Maria peace of mind, helps her plants thrive, and saves water in the process by not overwatering.
+
+**User Story #3: Frank**
+Frank is a 71-year-old who enjoys tending to his backyard garden. However, the physiucal aspects of checking the soil or remembering watering schedules has become difficult for him. With the plant sensor device, Frank can see clear, easy-to-read measurements on the device and usability. The system not only reminds him when watering is needed but can also water the plants automatically. This allows Frank to keep his garden healthy and enjoy his hobby comfortably, without the physical strain or worry of forgetting.
+
 ## Aspects
 
 The new product design will be based on that of the AirPods with improvements based on the following requirements. The **P1 - P10** is the "code" to indicate the priority of the requirement, from low to high.
