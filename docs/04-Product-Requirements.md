@@ -29,18 +29,26 @@ Maria is a 27-year-old college student living in Arizona. The hot and dry climat
 **User Story #3: Frank**
 Frank is a 71-year-old who enjoys tending to his backyard garden. However, the physiucal aspects of checking the soil or remembering watering schedules has become difficult for him. With the plant sensor device, Frank can see clear, easy-to-read measurements on the device and usability. The system not only reminds him when watering is needed but can also water the plants automatically. This allows Frank to keep his garden healthy and enjoy his hobby comfortably, without the physical strain or worry of forgetting.
 
-## Aspects
+## Design Aspects
 
 The new product design will be based on that of the AirPods with improvements based on the following requirements. The **P1 - P10** is the "code" to indicate the priority of the requirement, from low to high.
 
-1. **Producr Design**
+1. **Hardware/Product Design**
    * 1.1 The product shall be visually easy to distinguish from existing AirPods as well as main competitors Sony WF-1000XM3, Jabra Elite, Amazon Echo Buds, Samsung Galaxy Buds, and Bose SoundSport Free, and Urbanista Stockholm. (P10)
    * 1.1 The product shall be easy to recognize as an Apple product without needing a logo on its exterior. (P10)
    * 1.2. The product shall avoid styling elements from our Powerbeats over-ear wireless headphones since those address a different market segment. (P8)
   
-1. **Functionality**
+2. **Software/Functionality**
       * 2.1 The product shall incorporate one or more optical proximity sensors to detect the user wearing it. (P10)
       * 2.2 The product shall offer a dual microphone in each earbud. (P10)
+
+3. **Interactivity & User Experience**
+
+4. **Customization**
+
+5. **Manufacturing**
+
+6. **Safety**
 
 ## Requirement Criteria Specifications
 
