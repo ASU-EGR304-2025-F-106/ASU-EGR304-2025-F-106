@@ -12,11 +12,11 @@ This project aims to investigate and develop smart adaptive technologies, an imp
 ## Stakeholders
 
 - **Target group** Gardeners and planting ethusiasts, either professionally or recreationally of all ages.
-- **Target purchaser** Target group profile with special attention to Full Nest I and Full Nest II mothers.
-- **Customer service** Prefers easy-to-repair, recyclable product, and easy-to-fix complaints to fit with Apple’s intuitive user experience.
-- **Marketing & Sales division** Looks for unique selling points around the Apple Aspirer-Explorer lifestyle and user experience.
-- **Retailers** Prefer products that can withstand a wide range of storage conditions including variations in temperature, vibration, humidity, and atmospheric pressure, and have a strong and compact, theft, and vandalism-proof packaging.
-
+- **Target purchaser** Target group profile with focus on individuals in the working class that have no time to tend to plants as they should. New plant hobbiests who are getting into tending plants and enjoy on their free time.
+- **Customer service** Prefer easy set up, interface and clear set up instructions. This also incldues a product that is durable and easy troubleshooting.
+- **Marketing & Sales division** Attend local Home and Garden shows with demonstations and spreading the product by word of mouth. This includes attending local farmers markets with intention of shwoing face to consumers.
+- **Retailers** Prefer products that can be durable during transportation use and the ability to be placed both indoor and outdoor in store placement. 
+- **Regulatory instances** Device must comply with electronics and consumer product standards (e.g., FCC, RoHS) and possibly water-use efficiency certifications.
 
 ## Use Cases
 
