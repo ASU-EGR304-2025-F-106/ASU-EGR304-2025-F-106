@@ -7,7 +7,9 @@ tags:
 
 ## Project Objective
 
-This project aims to investigate and develop smart adaptive technologies, an improved user experience, better fit, improved product design, and product customization options for the next-generation AirPods. The target is to maintain global dominance in the wireless earphone market, drive up AirPod sales to 100 million+ units sold with a 60% global market share in 2021 and expand the user base more towards the luxury, professional, and fitness segments. We believe that adding smart interactions and adaptive audio filters alone will already expand our user base by 15%. With the new generation AirPods we aim to match at least the sound quality of our main competitor, the Sony WF-1000XM3, and include Active Noise Canceling that is also featured in Mifo, House of Marley, Bose, and Amazon Echo products. We will also obtain IPX4 sweat-resistant rating equal to Bose, House of Marley, and Amazon Echo earbuds, and aim to extend our range of colors, as seen in Urbanista and Jabra’s lifestyle products.
+The goal of this project is to create a smart plant care system that helps people keep their plants healthy with less effort. The device uses sensors to measure soil moisture, temperature, and light. This then provides feedback that can automatically water the plant when needed. This makes it easier for users to avoid either over or under watering while also saving water and adapting to tough climates like in Arizona.
+
+Beyond convenience, the objective is to make plant care more reliable and accessible for different types of users, from students who are just starting out on their own to families with gardens or older adults who want less physical strain. By combining practical features with simple design, the project aims to deliver a low cost, easy to use solution that supports sustainability while keeping plants thriving.
 
 ## Stakeholders
 
