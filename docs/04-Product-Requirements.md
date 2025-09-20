@@ -36,24 +36,37 @@ Frank is a 71-year-old who enjoys tending to his backyard garden. However, the p
 
 ## Design Aspects
 
-The new product design will be based on that of the AirPods with improvements based on the following requirements. The **P1 - P10** is the "code" to indicate the priority of the requirement, from low to high.
+This product will be designed as a new and original plant, soil, and water monitor based on user needs . The **P1 - P10** is the "code" to indicate the priority of the requirement, from low to high.
 
 1. **Hardware/Product Design**
-      * 1.1 The product shall be visually easy to distinguish from existing AirPods as well as main competitors Sony WF-1000XM3, Jabra Elite, Amazon Echo Buds, Samsung Galaxy Buds, and Bose SoundSport Free, and Urbanista Stockholm. (P10)
-      * 1.1 The product shall be easy to recognize as an Apple product without needing a logo on its exterior. (P10)
-      * 1.2. The product shall avoid styling elements from our Powerbeats over-ear wireless headphones since those address a different market segment. (P8)
+      * 1.1 This product will be extremely durable being able to last years with only minor upkeep.  (P10)
+      * 1.2 This product will have a minimal footprint, making virtually no noise and being compact and clean. (P10)
+      * 1.3 This product design will be able to fit in indoors or inside without looking out of place. (P9)
   
 2. **Software/Functionality**
-      * 2.1 The product shall incorporate one or more optical proximity sensors to detect the user wearing it. (P10)
-      * 2.2 The product shall offer a dual microphone in each earbud. (P10)
+      * 2.1 This product shall have the necessary sensors to make it extremely effective IE. Light, temperature, soil quality, contaminints and water. (P10)
+      * 2.2 This product will have integrated wifi and app connection making it easy for users to control and monitor without being at the actual unit. (P10)
+      * 2.3 Sensor upper and lower limits will be easily changed based on the plant / soil being monitored (P10)
 
 3. **Interactivity & User Experience**
+      * 3.1 This product will be easy to assemble and use out of the box (P10)
+      * 3.2 This products software and app services will be easy to monitor and interpret for first time users (P10)
+      * 3.3 This product will have a satisfaction guarantee (P8)
 
 4. **Customization**
+      * 4.1 This design will come in multiple different sizes and colors (P7)
+      * 4.2 This product will be able to be modified with different and additional sensors (P10)
+      * 4.3 This product will be able to be raised and turned into an open or closed environment based on user preference (P5)
 
 5. **Manufacturing**
+      * 5.1 This product will be cheap to and generally easy to manufacture making it affordable and easily repairable (P10)
+      * 5.2 All products will undergo an inspection before shipping out to ensure no defects are present before the shipping process (P10)
+      * 5.3 There will be no variation in product size or color during the manufacturing process (P6)
 
 6. **Safety**
+      * 6.1 This product will be made under the requirement that absolutely no harm can be caused to any user (P10)
+      * 6.2 This product will not be heavy (P10)
+      * 6.3 This product will be completely water proof P(10)
 
 ## Requirement Criteria Specifications
 
