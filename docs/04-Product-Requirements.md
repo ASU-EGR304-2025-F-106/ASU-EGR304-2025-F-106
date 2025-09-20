@@ -12,8 +12,8 @@ This project aims to investigate and develop smart adaptive technologies, an imp
 ## Stakeholders
 
 - **Target group** Gardeners and planting ethusiasts, either professionally or recreationally of all ages.
-- **Target purchaser** Target group profile with focus on individuals in the working class that have no time to tend to plants as they should. New plant hobbiests who are getting into tending plants and enjoy on their free time.
-- **Customer service** Prefer easy set up, interface and clear set up instructions. This also incldues a product that is durable and easy troubleshooting.
+- **Target purchaser** Target group profile with focus on individuals in the working class that have no time to tend to plants as they should. New plant hobbiests who are getting into growing plants and enjoy on their free time.
+- **Customer service** Prefer easy set up, interface and clear set up instructions. This also includes a product that is durable and easy troubleshooting.
 - **Marketing & Sales division** Attend local Home and Garden shows with demonstations and spreading the product by word of mouth. This includes attending local farmers markets with intention of shwoing face to consumers.
 - **Retailers** Prefer products that can be durable during transportation use and the ability to be placed both indoor and outdoor in store placement. 
 - **Regulatory instances** Device must comply with electronics and consumer product standards (e.g., FCC, RoHS) and possibly water-use efficiency certifications.
@@ -21,9 +21,7 @@ This project aims to investigate and develop smart adaptive technologies, an imp
 ## Use Cases
 
 **User Story #1: Jenna**
-Jenna is a 33-year-old executive who regularly visits a bar for lunch to blow off some steam. The bar is often loud with people, but it is paramount that she can hold business conversations over the phone there. Then again, she does not want to miss out on the atmosphere and be able to hear the waiters as well. Her new Apple wireless earphones allow her to switch instantly between a mode where she can fully focus on the phone conversation and a mode where the phone call and environmental sound are seamlessly combined. They also allow her to rapidly adjust the volume on the earbuds themselves without having to take out her phone.
-
-Jenna occasionally visits the bar in the evenings. She is a big fan of the L.A. Lakers, and whenever they play, she streams the live footage through her phone. Her new earbuds allow her to easily switch to hearing everything around her and streaming the match commentary without having to ever take the earbuds out.  She sometimes gets compliments on how stylish the earbuds look on her, and she wouldn’t want to miss out on hearing those either.
+Linda is a 35 year old mother of two who wants to teach her kids about responsibility and caring for plants. The plant sensor system helps to educate her children to see when the soil is too dry or when the plants need more sunlight through simple icons and lights. The kids enjoy checking the readings and even press the button to trigger watering to see how it works. For Linda, this turns gardening into a family activity while also ensuring the plants stay healthy. Her favorite thing is teaching her kids how to take care of a living thing.
 
 **User Story #2: Maria**
 Maria is a 27-year-old college student living in Arizona. The hot and dry climate makes it difficult for her to keep her indoor plants healthy. She forgets to water them sometimes and it can be hard to tell if she is overwatering or underwatering. With the plant sensor device, Maria can easily monitor soil moisture, temperature, and light. When her plants are getting dry, the system not only alerts her but can also trigger a small watering function automatically. This gives Maria peace of mind, helps her plants thrive, and saves water in the process by not overwatering.
