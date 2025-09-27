@@ -256,21 +256,19 @@ Concept 3: Smart Water Tank Monitor (Solar-Powered)
 
 ## Step Five
 
-Describe, in one page (an equivalent length in word would be single spaced, 12pt times new roman font),
+- Based on our product requirements and user needs, the team thought of features and concepts that would meet these requirements and solve issues from users using existing products.
 
-- The process by which you ran your brainstorm session
+- All team members contributed and communicated for design brainstorming and features. 
 
-- Who participated
+- No physical meeting, all members of team 106 communicated via team groupchat. Team also discussed possible features during class time and office hours with professor 
 
-- How did you meet
+- Ideas were formed based off of user requirements *see Tab 4 "Product Requirements"* and existing products in the market 
 
-- How did you collect ideas (what tools did you use? who collected them?)
+- List of product requirements came from User needs and benchmarking and design brainstorming stemmed from a combination of the two
 
-- Which project assignment(s) did you draw your list of requirements from?
+- Features were grouped in catagories based on what issues or product requirements that were solving, like safety and app integration.
 
-- How you grouped features
-
-- How you applied rankings to top ideas
+- Ideas were ranked in an "importance" scale from 1-5 with importance being things needed to make design and product differ and superior to existing products 
 
 ## Step Six (video link)
 Embedded a YouTube video that covers the 
