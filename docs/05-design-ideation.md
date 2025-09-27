@@ -236,6 +236,8 @@ Concept 1: Soil Health Notifier (Battery-Powered)
 - Small buzzer visible on side.
 - Battery pack compartment labeled.
 
+(![Concept1](image-1.png))
+
 Concept 2: Auto Watering System (Plug-In Powered)
 
 - Potted plant with soil probe.
