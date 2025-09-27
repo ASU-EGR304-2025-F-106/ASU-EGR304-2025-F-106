@@ -244,6 +244,8 @@ Concept 2: Auto Watering System (Plug-In Powered)
 - Float sensor inside tank.
 - Plug-in adapter connected to device.
 
+![concept2](Concept2.png)
+
 Concept 3: Smart Water Tank Monitor (Solar-Powered)
 
 - Blue water tank with ultrasonic sensor on lid.
