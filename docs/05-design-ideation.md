@@ -119,7 +119,111 @@ Below is the product of generated ideas the team has brainstormed based on the u
 
 ## Step Three
 
-Add your context and tables
+Below is our teams ranking of selected features based on our genration of ideas. This table will help produce three possible product concepts combining different but also mutiple featues listed below.
+
+| requirement / need | feature | rank |
+|--------------------|---------|------|
+| product provides clear soil moisture notifications | LED indicator lights | 1 |
+|  | buzzer | 2 |
+|  | vibration motor | 3 |
+|  | speaker | 4 |
+|  | mobile push notification | 5 |
+| product measures soil moisture at multiple depths | capacitive soil sensor | 1 |
+|  | resistive probe sensor | 2 |
+|  | multi-depth probe | 3 |
+|  | dielectric sensor | 4 |
+|  | wireless soil node | 5 |
+| product measures soil temperature accurately | thermistor probe | 1 |
+|  | dual-depth probe | 2 |
+|  | digital soil thermometer | 3 |
+|  | infrared sensor | 4 |
+|  | app graph | 5 |
+| product measures air temperature around plants | digital ambient sensor | 1 |
+|  | thermocouple | 2 |
+|  | fan-assisted sensor | 3 |
+|  | infrared ambient sensor | 4 |
+|  | app alerts | 5 |
+| product tracks light intensity and duration | photodiode sensor | 1 |
+|  | lux meter | 2 |
+|  | exposure duration timer | 3 |
+|  | RGB sensor | 4 |
+|  | cloud sync | 5 |
+| product monitors soil fertility and nutrients | EC probe | 1 |
+|  | modular add-on sensor | 2 |
+|  | ion-selective sensor | 3 |
+|  | periodic testing alerts | 4 |
+|  | app-based nutrient log | 5 |
+| product controls automatic watering | built-in water pump | 1 |
+|  | gravity-fed drip system | 2 |
+|  | solenoid valve | 3 |
+|  | adjustable schedule | 4 |
+|  | manual override in app | 5 |
+| product monitors water tank level | float sensor | 1 |
+|  | conductivity probe | 2 |
+|  | ultrasonic sensor | 3 |
+|  | load cell | 4 |
+|  | app low-water alert | 5 |
+| product connects locally to devices | USB-C port | 1 |
+|  | Bluetooth | 2 |
+|  | NFC tap setup | 3 |
+|  | Zigbee module | 4 |
+|  | offline mode | 5 |
+| product connects remotely for monitoring | Wi-Fi module | 1 |
+|  | LTE cellular module | 2 |
+|  | cloud integration | 3 |
+|  | mobile app dashboard | 4 |
+|  | API data export | 5 |
+| product is durable in outdoor Arizona heat | waterproof casing | 1 |
+|  | stainless steel probes | 2 |
+|  | UV-resistant housing | 3 |
+|  | drop-resistant shell | 4 |
+|  | tamper-resistant casing | 5 |
+| product ensures safe operation for users | low-voltage electronics | 1 |
+|  | insulated casing | 2 |
+|  | rounded edges | 3 |
+|  | non-toxic housing materials | 4 |
+|  | auto shutoff | 5 |
+| product remains reliable year-round | rechargeable battery | 1 |
+|  | solar backup panel | 2 |
+|  | weekly self-test routine | 3 |
+|  | self-calibration | 4 |
+|  | dual sensor redundancy | 5 |
+| product supports sustainable use | solar panel charging | 1 |
+|  | recyclable housing | 2 |
+|  | modular replaceable parts | 3 |
+|  | eco-mode watering | 4 |
+|  | biodegradable packaging | 5 |
+| product is easy to set up for new users | QR code pairing | 1 |
+|  | one-button sync | 2 |
+|  | guided setup wizard | 3 |
+|  | pre-configured profiles | 4 |
+|  | audible setup tones | 5 |
+| product displays plant data clearly | LED indicators | 1 |
+|  | LCD display | 2 |
+|  | mobile app graphs | 3 |
+|  | weekly push report | 4 |
+|  | web dashboard | 5 |
+| product provides educational plant support | seasonal tips | 1 |
+|  | species care library | 2 |
+|  | app pop-up guides | 3 |
+|  | video tutorials | 4 |
+|  | chatbot assistant | 5 |
+| product looks visually appealing indoors | compact size | 1 |
+|  | neutral color options | 2 |
+|  | minimalist design | 3 |
+|  | decorative casings | 4 |
+|  | LED light ring | 5 |
+| product offers affordable ownership | warranty included | 1 |
+|  | tiered versions | 2 |
+|  | free basic app | 3 |
+|  | bulk pack discounts | 4 |
+|  | transparent replacement part cost | 5 |
+| product provides long-term customer support | troubleshooting guide | 1 |
+|  | firmware updates | 2 |
+|  | customer chat support | 3 |
+|  | community forum | 4 |
+|  | feedback submission tool | 5 |
+
 
 ## Step Four
 
