@@ -227,7 +227,29 @@ Below is our teams ranking of selected features based on our genration of ideas.
 
 ## Step Four
 
-Add your different product concepts stuff here
+**Three Concepts/Ideas**
+
+Concept 1: Soil Health Notifier (Battery-Powered)
+
+- Device casing with LED lights on top.
+- Capacitive soil probe inserted into soil.
+- Small buzzer visible on side.
+- Battery pack compartment labeled.
+
+Concept 2: Auto Watering System (Plug-In Powered)
+
+- Potted plant with soil probe.
+- Small external water tank with pump.
+- Tube running from pump to soil.
+- Float sensor inside tank.
+- Plug-in adapter connected to device.
+
+Concept 3: Smart Water Tank Monitor (Solar-Powered)
+
+- Blue water tank with ultrasonic sensor on lid.
+- Solar panel mounted on device casing.
+- LED indicators on the side showing tank status.
+- Rechargeable battery inside casing.
 
 ## Step Five
 
