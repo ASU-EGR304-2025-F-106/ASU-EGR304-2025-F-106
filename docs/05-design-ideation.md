@@ -229,5 +229,23 @@ Below is our teams ranking of selected features based on our genration of ideas.
 
 Add your different product concepts stuff here
 
+## Step Five
+
+Describe, in one page (an equivalent length in word would be single spaced, 12pt times new roman font),
+
+- The process by which you ran your brainstorm session
+
+- Who participated
+
+- How did you meet
+
+- How did you collect ideas (what tools did you use? who collected them?)
+
+- Which project assignment(s) did you draw your list of requirements from?
+
+- How you grouped features
+
+- How you applied rankings to top ideas
+
 ## Step Six (video link)
 Embedded a YouTube video that covers the 
