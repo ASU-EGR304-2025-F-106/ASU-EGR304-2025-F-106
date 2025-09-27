@@ -11,7 +11,7 @@ In collaberation with the team, this is the stage where we move from identifying
 
 ## Generating Ideas
 
-For each user need and product requirement, brainstorm 5 different product features that could be used to satisfy that requirement.
+Below is the product of generated ideas the team has brainstormed based on the user needs we identified in the previous section (Ease of Use, Functionality, Safety & Durability, Reliability & Performance, Sustainability, Connectivity & Integration, Aesthetics & Design, Support & Education, Value & Cost).
 
 |                   requirement / need |             feature              | detail                                                                      |
 | -----------------------------------: | :------------------------------: | --------------------------------------------------------------------------- |
