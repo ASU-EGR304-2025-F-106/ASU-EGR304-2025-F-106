@@ -251,6 +251,8 @@ Concept 3: Smart Water Tank Monitor (Solar-Powered)
 - LED indicators on the side showing tank status.
 - Rechargeable battery inside casing.
 
+![Concept3](image concept 3.png)
+
 ## Step Five
 
 Describe, in one page (an equivalent length in word would be single spaced, 12pt times new roman font),
