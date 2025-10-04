@@ -4,9 +4,7 @@ title: Team Block Diagram
 
 ## Introduction
 
-**Bold Text**
-_Italic Text_
-**_Bold and Italic Text_**
+Our team’s block diagram shows the overall design of our plant embedded system, which is divided into two sensors (light and soil moisture) and two actuators (a water pump and a grow light). Each part connects through a shared microcontroller interface so the system can monitor conditions and automatically respond. This makes sure the plant receives the right amount of water and light.
 
 ## Research Question
 
