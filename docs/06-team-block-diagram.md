@@ -9,19 +9,12 @@ Our team’s block diagram shows the overall design of our plant embedded system
 ## Research Question
 
 * How can a microcontroller accurately monitor soil moisture and light intesity to ensure the plant grows in the right conditions?
-* Bullet Point 2
-* Bullet Point 3
+* How do these conditions impact the growth of a plant under normal circumstances?
+* What are the changes that could be made to make the product more effective and effecient than its competitors on the market?
 
 ## Images
 
-![image caption](https://idealab.asu.edu/assets/images/research/jumper1.png)
 
-![dead bug circuit](Image01.jpg){style width:"350" height:"300;"}
-**Figure 2:** Early PCB working design
-
-
-![showcase](ImageShowcase.png)
-**Figure 3:** Innovation Showcase Spring '25, where the products were a STEM-themed display that demonstrates a single scientific/engineering concept with the intended user of K-12 students interested in learning about science, technology, engineering, or math.
 
 
 ## Results
