@@ -8,7 +8,7 @@ Our team’s block diagram shows the overall design of our plant embedded system
 
 ## Research Question
 
-* Bullet Point 1
+* How can a microcontroller accurately monitor soil moisture and light intesity to ensure the plant grows in the right conditions?
 * Bullet Point 2
 * Bullet Point 3
 
@@ -35,21 +35,3 @@ Our team’s block diagram shows the overall design of our plant embedded system
 ## External Links
 
 [example link to idealab](https://idealab.asu.edu)
-
-
-## Results
-
-1. Numbered Point 1
-1. Numbered Point 2
-1. Numbered Point 3
-
-## Conclusions and Future Work
-
-## External Links
-
-[example link to idealab](https://idealab.asu.edu)
-
-
-## References
-
-
