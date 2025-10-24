@@ -16,11 +16,14 @@ Dr. Daniel Aukes<br>
 
 </center>
 
-## Team Introduction
-> This will be updated as part of the preparation for the External Review.<br>
->    * This needs to be updated to reflect a team introduction.<br>
->    * Content should also help an unfamiliar reader navigate to areas of interest.
+## Team Introduction - Team 106
+- Garrett Wiebke: Robotics Engineering Student
+- Charlie
+- JT
+- Jon 
 
+## Project Description
+Plant lighting and watering system, designed to be easy to use, reliable, and fully automatic. Our goal is to help our users with a dependable system that removes their worries about the constant upkeep of house plants. Important design aspects about this project include being low-profile, reliable, and durable. Team 106 has compared aspects of popular market solutions and plans to innovate existing products by listening to customer needs while also following project constraints.
 
 ## Team Members Datasheet links
 
