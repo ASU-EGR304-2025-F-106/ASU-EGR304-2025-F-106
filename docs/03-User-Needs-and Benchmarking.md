@@ -4,6 +4,14 @@ tags:
 - tag1
 - tag2
 ---
+## Benchmarking
+
+The goal of this section is to identify and anaylyze existing smart plant systems that either do or combine the following actions:
+
+- Automatically Waters Plants 
+- Has a Growth UV Light 
+- Has a Water Dispenser 
+- Maintains Soil Moisture
 
 ## Voices of the Customers Benchmarking
 
