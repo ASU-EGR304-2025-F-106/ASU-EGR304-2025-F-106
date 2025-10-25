@@ -12,4 +12,4 @@ The diagram below shows how each subsystem initializes, collects data, takes act
 
 ![SoftwareDiagram](newsoft.png)
 
-The schematic as a PDF download is available [*here*](newsoft.pdf)
+Team Activity Diagram | [PDF Download](softio.pdf) | [Draw.io Download](https://drive.google.com/file/d/14Mvt6AI8rmQZjSnXgR-JArQeQUlvBvEq/view?usp=drive_link)
