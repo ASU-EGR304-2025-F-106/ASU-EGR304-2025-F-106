@@ -258,21 +258,15 @@ Concept 3: Smart Water Tank Monitor (Solar-Powered)
 ![concept3](concept3.png)
 
 
-## Step Five
+## Decision Making Summary
 
-- Based on our product requirements and user needs, the team thought of features and concepts that would meet these requirements and solve issues from users using existing products.
+- Team 106 made the final design decision after comparing several concepts developed from our user needs and benchmarking. All members shared ideas and discussed features through group communication and feedback. We reviewed  and analyzed existing products and combined the most effective features into one design. The final concept, shown in our team block diagram and software proposal, has each subsystem working together to monitor soil moisture, light levels, and water control. This approach keeps the system simple and easy to maintain while meeting consumer needs. 
 
-- All team members contributed and communicated for design brainstorming and features. 
+## Final Design Deviations
 
-- No physical meeting, all members of team 106 communicated via team groupchat. Team also discussed possible features during class time and office hours with professor 
+Our final design differs from the original three concepts by combining the best and most practical features into one connected system. Key differences include:
 
-- Ideas were formed based off of user requirements *see Tab 4 "Product Requirements"* and existing products in the market 
+- Each part of the system now has its own microcontroller.
+- All subsystems work together to share data and stay in sync.
+- The system uses a plug in power source with a 9V to 5V regulator.
 
-- List of product requirements came from User needs and benchmarking and design brainstorming stemmed from a combination of the two
-
-- Features were grouped in catagories based on what issues or product requirements that were solving, like safety and app integration.
-
-- Ideas were ranked in an "importance" scale from 1-5 with importance being things needed to make design and product differ and superior to existing products 
-
-## Step Six (video link)
-Embedded a YouTube video that covers the 
