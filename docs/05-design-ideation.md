@@ -7,7 +7,7 @@ tags:
 
 ## Intro/Overview
 
-In collaberation with the team, this is the stage where we move from identifying needs and requirements and in turn look to solve a possible solution. In this section, we explore different approaches from brainstorming and consider how user needs can be translated into practical design. The purpose is to explore a limited range of ideas that can later be implimeted and evaluated into our final product. By sharing and generating different designs, ideas and functions, we give our team the best chance of finding an innovative design direction that is not only functional, but easy to use and practical for those who need it.
+At this stage, our team moved from identifying user needs to developing possible solutions. We explored different ideas through brainstorming and compared how each could meet our goals for the smart plant system. The purpose was to find a small set of practical designs that could later be improved and tested for our final product. By sharing ideas and combining different concepts, we aimed to create a system that is simple, reliable, and easy for users to operate.
 
 ## Generating Ideas
 
@@ -117,7 +117,7 @@ Below is the product of generated ideas the team has brainstormed based on the u
 | product provides long-term customer support | feedback submission tool | allows users to suggest improvements |
 
 
-## Step Three
+## Feature Rankings
 
 Below is our teams ranking of selected features based on our genration of ideas. This table will help produce three possible product concepts combining different but also mutiple featues listed below.
 
@@ -225,7 +225,7 @@ Below is our teams ranking of selected features based on our genration of ideas.
 |  | feedback submission tool | 5 |
 
 
-## Step Four
+## Possible Generated Concepts
 
 **Three Concepts/Ideas**
 
