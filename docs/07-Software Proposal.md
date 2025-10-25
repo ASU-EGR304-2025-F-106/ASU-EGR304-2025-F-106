@@ -8,6 +8,8 @@ Our teams software design represents a smart plant system that combines multiple
 
 The diagram below shows how each subsystem initializes, collects data, takes action based on sensor readings and loops continuously to keep the system stable.
 
+![Software Diagram](software.png)
+
 ## Research Question
 
 * Bullet Point 1
