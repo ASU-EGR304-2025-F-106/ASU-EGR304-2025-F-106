@@ -12,21 +12,8 @@ Our team’s block diagram shows the overall design of our plant embedded system
 * How do these conditions impact the growth of a plant under normal circumstances?
 * What are the changes that could be made to make the product more effective and effecient than its competitors on the market?
 
-## Images
+## Diagram
 
 ![Team 106 - Block Diagram](<newnew.png>)
 
 Team Block Diagram| [PDF Download](newww.pdf)
-
-
-## Results
-
-1. Numbered Point 1
-1. Numbered Point 2
-1. Numbered Point 3
-
-## Conclusions and Future Work
-
-## External Links
-
-[example link to idealab](https://idealab.asu.edu)
