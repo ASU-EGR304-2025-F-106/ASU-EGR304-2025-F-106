@@ -18,7 +18,7 @@ Dr. Daniel Aukes<br>
 
 ## Team Introduction - Team 106
 - Garrett Wiebke: Robotics Engineering Student
-- Charlie
+- Charlie: Electrical Systems Engineering Student
 - JT Harrison: Electrical Systems Engineering Student
 - Jon 
 
