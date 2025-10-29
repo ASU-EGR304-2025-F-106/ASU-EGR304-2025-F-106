@@ -5,9 +5,9 @@ tags:
 - tag2
 ---
 <center>
-<font size="8">Embedded Systems Design Project<br>
+<font size="8">Automatic Plant Care System<br>
 <font size="5">Team 106<br>
-**Submission: Sep 05, 2025**<br>
+**Submission: October 31, 2025**<br>
 Fall 2025<br>
 <font size="4">Arizona State University<br>
 **EGR 304**<br>
@@ -16,11 +16,13 @@ Dr. Daniel Aukes<br>
 
 </center>
 
+![Team Report QR Code](image-2.png)
+
 ## Team Introduction - Team 106
-- Garrett Wiebke: Robotics Engineering Student
-- Charlie: Electrical Systems Engineering Student
-- JT Harrison: Electrical Systems Engineering Student
-- Jon 
+- Garrett Wiebke - Robotics Engineering Student - Water Pump Subsystem
+- Charlie - Electrical Systems Engineering Student - Soil Moisture Sensor Subsystem
+- JT Harrison - Electrical Systems Engineering Student - Light Sensor Subsystem
+- Jon San Vicente - Plant Grow Light Panel Subsystem
 
 ## Project Description
 Plant lighting and watering system, designed to be easy to use, reliable, and fully automatic. Our goal is to help our users with a dependable system that removes their worries about the constant upkeep of house plants. Important design aspects about this project include being low-profile, reliable, and durable. Team 106 has compared aspects of popular market solutions and plans to innovate existing products by listening to customer needs while also following project constraints.
