@@ -16,12 +16,12 @@ Dr. Daniel Aukes<br>
 
 </center>
 
-![Team Report QR Code](image-2.png)
+![Team Report QR Code](image-2.png){: align=center }
 
 ## Team Introduction - Team 106
-- Garrett Wiebke - Robotics Engineering Student - Water Pump Subsystem
-- Charlie - Electrical Systems Engineering Student - Soil Moisture Sensor Subsystem
-- JT Harrison - Electrical Systems Engineering Student - Light Sensor Subsystem
+- Garrett Wiebke: Robotics Engineering Student - Water Pump Subsystem
+- Charlie: Electrical Systems Engineering Student - Soil Moisture Sensor Subsystem
+- JT Harrison: Electrical Systems Engineering Student - Light Sensor Subsystem
 - Jon San Vicente - Plant Grow Light Panel Subsystem
 
 ## Project Description
