@@ -13,6 +13,6 @@ From the team's set goals, which can be reviewed in ["Appendix: Team Organizatio
 
 ## Product Mission Statement
 
-> "Team 106’s mission is to design and develop a smart plant system that integrates multiple sensors and actuators to monitor and sustain healthy plant growth automatically. Our goal is to deliver a reliable, well-engineered product that highlights our teamwork, technical skill, and commitment to excellence within the ASU engineering program."
+> "Team 106’s mission is to create a smart plant care system for both indoor and outdoor environments that automatically monitors and maintains proper light as well as moisture levels. Our goal is to help users keep their plants healthy and thriving with minimal effort and sustainable operation."
 
 
