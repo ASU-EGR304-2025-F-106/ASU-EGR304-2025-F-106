@@ -4,9 +4,11 @@ title: Software Proposal
 
 ## Introduction
 
-Our teams software design represents a smart plant system that combines multiple sensors and actuators to help maintain ideal growing conditions. Each section is a subsystem, which includes a soil moisture sensor, light sensor, water pump, and grow light, that works together to monitor and adjust the environment automatically. The system operates on the Microchip Curiosity Nano, where each board continuously reads data, processes it, and communicates to each other to coordinate actions.
+Our team's software design represents a smart plant system that uses multiple sensors and actuators to maintain ideal growing conditions. Each subsystem, soil moisture, light, water pump, and grow light works together to monitor and adjust the environment automatically. The system runs on the Microchip Curiosity Nano, where each board reads, processes, and shares data to coordinate actions.
 
-The diagram below shows how each subsystem initializes, collects data, takes action based on sensor readings and loops continuously to keep the system stable.
+To prevent constant watering or lighting, the soil moisture and light subsystems include time delays that let the soil dry between cycles and maintain a natural day/night rhythm.
+
+The diagram below shows how each subsystem initializes, collects data, takes action, and loops continuously to keep the system stable.
 
 ## Team Activity Diagram
 
@@ -16,4 +18,18 @@ Team Activity Diagram | [PDF Download](softio.pdf) | [Draw.io Download](https://
 
 ## Decision Making Process
 
-Our team designed the software structure by dividing the system into 4 modular subsystems: a soil moisture sensor, a water pump, brightness sensor, and a grow light. We designed it in this way to ensure clarity between individual responsibilities of group members and to show visually what those responsibilities are. We designed it using 4 parallel activity loops in order to represent the embedded environment where individual tasks are split up into smaller circuits. The inclusion of an initialization step in each subsystem ensures proper and repeatable startup behavior. Each subsystem should work together to create a modular system which will monitor, water, and provide light to a plant in real time. 
+Our team designed the software structure around four subsystems: a soil moisture sensor, water pump, brightness sensor, and grow light. This approach ensured clear roles, simple debugging, and supported independent subsystem development.
+
+**Key Decisions**
+
+* Divided into four subsystems to separate responsibilities and maintain clarity between team members.
+
+* Used four parallel activity loops to reflect real time behavior where each task runs independently.
+
+* Add initialization steps to each subsystem for consistent startup and reliable operation.
+
+* Time delays for both water and light subsystem to prevent overwatering and continuous light.
+
+* Ensured all subsystems work together to monitor, water, and light the plant efficiently in real time.
+
+
