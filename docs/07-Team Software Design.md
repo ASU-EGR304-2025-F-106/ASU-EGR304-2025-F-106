@@ -32,4 +32,11 @@ Our team designed the software structure around four subsystems: a soil moisture
 
 * Ensured all subsystems work together to monitor, water, and light the plant efficiently in real time.
 
+## Version 2.0
+
+For a Version 2.0 of our hardware design, we would focus on making our system more efficient and make sure it works as intended without compromising portability and compatability with each subsystem. 
+
+- Make our entire system be able to run on one power source rather than some components running seperately as some of our components ran off of 5V or more.
+
+- When testing out systems, include debugging areas as sometimes it was hard to figure out where the system is going wrong, this can be in form of leds or buttons.
 
