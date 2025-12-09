@@ -12,10 +12,8 @@ title: Reflection
  6. Sometimes simple is better and not to over complex certain things.
  7. Using what we learned in labs using MPLAB X, especially with coding helped alot and applying to our design.
  8. Testing with team mates in person to ensure team connection works as intended.
-
- 9.
-
- 10.
+ 9. The manufacturing time was something new we learned to go through with wait times and unexpected malfunctions and we had to by pass by ordering 3rd party.
+ 10. Go to office hours and take advantage of the resources from either the teachers or the TA and other students.
 
 
 
