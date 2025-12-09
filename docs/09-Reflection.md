@@ -8,13 +8,10 @@ title: Reflection
  2. Team meetings and communication are important, it can be difficult to understand if a team member needs help or if they are any issues, and is very beneficial since we all rely on one another.
  3. Double check when dealing with sensors with a oscilliscope to deteermine you are doing what you want it to do whether that is buffering or amplifying a signal.
  4. Learn to be flexible and have a back up plan should any issues occur so you are prepared and know that nothing ever really goes right 100 percent of the time.
- 5. 
- 
- 6.
-
- 7.
-
- 8.
+ 5. Delegating each team members responsibility is important, so that no one is overworked and that we know what needs to be done.
+ 6. Sometimes simple is better and not to over complex certain things.
+ 7. Using what we learned in labs using MPLAB X, especially with coding helped alot and applying to our design.
+ 8. Testing with team mates in person to ensure team connection works as intended.
 
  9.
 
