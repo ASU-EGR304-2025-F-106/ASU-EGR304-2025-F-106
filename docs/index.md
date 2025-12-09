@@ -12,8 +12,8 @@ Fall 2025<br>
 <font size="4">Arizona State University<br>
 **EGR 304**<br>
 Dr. Daniel Aukes<br>
+</center>  
   
-
 
 <p style="text-align:center;">
   <img src="image-2.png" width="300">
