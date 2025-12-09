@@ -14,9 +14,12 @@ Fall 2025<br>
 Dr. Daniel Aukes<br>
   
 
-</center>
 
-![Team Report QR Code](image-2.png){: align=center }
+<p style="text-align:center;">
+  <img src="image-2.png" width="300">
+</p>
+
+
 
 ## Team Introduction - Team 106
 - Garrett Wiebke: Robotics Engineering Student - Water Pump Subsystem
