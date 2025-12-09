@@ -14,10 +14,6 @@ Our team’s block diagram shows the overall design of our plant embedded system
 
 ## Diagram
 
-<<<<<<< HEAD
-![alt text](<Team 106 - Block Diagram Updated.drawio.png>)
-=======
 ![Team 106 - Block Diagram](td.png)
->>>>>>> 2431b9c (new)
 
 Team Block Diagram| [PDF Download](td1.pdf)
